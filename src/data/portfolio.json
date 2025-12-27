@@ -74,6 +74,42 @@
             "verificationUrl": "https://www.credly.com/badges/48d44d7b-e0d4-4beb-89ca-89ec5ea397b6"
         },
         {
+            "id": 6,
+            "name": "CCA: Cilium Certified Associate",
+            "issuer": "The Linux Foundation",
+            "date": "2025",
+            "credentialId": "LF-txqact2dss",
+            "logo": "https://images.credly.com/images/729367b3-0344-4b00-a6da-53e1807f808a/image.png",
+            "verificationUrl": "https://www.credly.com/earner/earned/badge/7acfa5a4-e130-4566-ae83-7ae3543cb63e"
+        },
+        {
+            "id": 7,
+            "name": "PCA: Prometheus Certified Associate",
+            "issuer": "The Linux Foundation",
+            "date": "2025",
+            "credentialId": "LF-riwkv6giwf",
+            "logo": "https://images.credly.com/images/c34436dc-1cfd-4125-a862-35f9c86ca17f/image.png",
+            "verificationUrl": "https://www.credly.com/earner/earned/badge/8930e6d1-48e2-4694-9dfe-756fe62d9041"
+        },
+        {
+            "id": 8,
+            "name": "CAPA: Certified Argo Project Associate",
+            "issuer": "The Linux Foundation",
+            "date": "2025",
+            "credentialId": "LF-3j4k5l6m7n",
+            "logo": "https://images.credly.com/images/12624f9e-6b4a-43f0-b7a2-afb2c6cf8059/image.png",
+            "verificationUrl": "https://www.credly.com/earner/earned/badge/8d9e420d-c21e-4b42-bece-007acc6bd57d"
+        },
+        {
+            "id": 9,
+            "name": "CGOA: Certified GitOps Associate",
+            "issuer": "The Linux Foundation",
+            "date": "2025",
+            "credentialId": "LF-ws4l7o3jp2",
+            "logo": "https://images.credly.com/images/7219d055-4e97-439c-b244-8fbe885fa06b/image.png",
+            "verificationUrl": "https://www.credly.com/earner/earned/badge/c11d039f-f793-45ce-903c-f589fec1b2ff"
+        },
+        {
             "id": 8,
             "name": "CKS: Certified Kubernetes Security Specialist",
             "issuer": "The Linux Foundation",
