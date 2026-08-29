@@ -13,8 +13,17 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Sayed Imran | Kubestronaut, DevOps Engineer",
-  description: "Cloud & Kubernetes Specialist with expertise in DevOps, container orchestration, and CI/CD pipelines",
+  title: "Sayed Imran | Golden Kubestronaut, Site Reliability Engineer @ 66degrees",
+  description: "Cloud & Kubernetes Specialist with expertise in DevOps & SRE, container orchestration, and CI/CD pipelines",
+  icons: {
+    icon: [
+      { url: '/favicon.ico' },
+      { url: '/icon.png', sizes: '512x512', type: 'image/png' },
+    ],
+    apple: [
+      { url: '/apple-icon.png', sizes: '180x180', type: 'image/png' },
+    ],
+  },
 };
 
 export default function RootLayout({

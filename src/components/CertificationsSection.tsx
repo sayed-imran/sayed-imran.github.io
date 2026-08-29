@@ -154,7 +154,7 @@ export default function CertificationsSection({ certifications }: Certifications
                     <div className="inline-flex items-center space-x-8 bg-slate-800/30 backdrop-blur-sm border border-slate-700/50 rounded-xl px-8 py-4">
                         <div className="text-center">
                             <div className="text-2xl font-bold text-cyan-400">{certifications.length}</div>
-                            <div className="text-sm text-gray-400">Active Certifications</div>
+                            <div className="text-sm text-gray-400">Certifications</div>
                         </div>
                         <div className="w-px h-10 bg-slate-600" />
                         <div className="text-center">
@@ -163,7 +163,7 @@ export default function CertificationsSection({ certifications }: Certifications
                         </div>
                         <div className="w-px h-10 bg-slate-600" />
                         <div className="text-center">
-                            <div className="text-2xl font-bold text-cyan-400">2025</div>
+                            <div className="text-2xl font-bold text-cyan-400">2026</div>
                             <div className="text-sm text-gray-400">Latest Certification</div>
                         </div>
                     </div>

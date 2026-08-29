@@ -11,6 +11,7 @@ interface HeroSectionProps {
         subtitle: string;
         bio: string;
         location: string;
+        avatar?: string;
     };
 }
 
@@ -37,10 +38,23 @@ export default function HeroSection({ data }: HeroSectionProps) {
                         transition={{ delay: 0.3, type: "spring", stiffness: 200 }}
                         className="mx-auto w-40 h-40 relative"
                     >
-                        <div className="w-full h-full rounded-full bg-gradient-to-r from-cyan-500 to-blue-600 p-1">
-                            <div className="w-full h-full rounded-full bg-slate-800 flex items-center justify-center text-6xl font-bold text-cyan-400">
-                                {data.name.split(' ').map(n => n[0]).join('')}
-                            </div>
+                        <div className="w-full h-full rounded-full bg-gradient-to-r from-cyan-500 to-blue-600 p-1 shadow-xl shadow-cyan-500/20">
+                            {data.avatar ? (
+                                <div className="w-full h-full rounded-full overflow-hidden relative">
+                                    <Image
+                                        src={data.avatar}
+                                        alt={data.name}
+                                        fill
+                                        sizes="160px"
+                                        className="object-cover"
+                                        priority
+                                    />
+                                </div>
+                            ) : (
+                                <div className="w-full h-full rounded-full bg-slate-800 flex items-center justify-center text-6xl font-bold text-cyan-400">
+                                    {data.name.split(' ').map(n => n[0]).join('')}
+                                </div>
+                            )}
                         </div>
                     </motion.div>
 

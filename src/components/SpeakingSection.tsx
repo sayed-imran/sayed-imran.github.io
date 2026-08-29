@@ -175,7 +175,9 @@ export default function SpeakingSection({ events }: SpeakingSectionProps) {
                         </div>
                         <div className="w-px h-10 bg-slate-600" />
                         <div className="text-center">
-                            <div className="text-2xl font-bold text-cyan-400">6</div>
+                            <div className="text-2xl font-bold text-cyan-400">
+                                {new Set(events.map(event => event.location)).size}
+                            </div>
                             <div className="text-sm text-gray-400">Locations</div>
                         </div>
                     </div>
