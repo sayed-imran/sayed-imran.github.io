@@ -468,6 +468,18 @@
         },
         {
             "id": 7,
+            "event": "Cloud Native Bhubaneswar Meetup #4",
+            "title": "Reducing Kubernetes YAML Sprawl with kro",
+            "date": "2026-01-25",
+            "location": "Virtual / Online",
+            "type": "Session",
+            "description": "An overview of how kro enables higher-level abstractions in Kubernetes, helping teams group resources, reduce YAML complexity, and standardize application delivery without sacrificing flexibility.",
+            "info": "https://ocgroups.dev/cncf/group/bhubaneswar/event/t9r6wzn",
+            "recording": "https://www.youtube.com/watch?v=Bk3_BIoa9kM&t=5966s",
+            "audience": 250
+        },
+        {
+            "id": 8,
             "event": "Cloudtoberfest 2025",
             "title": "Cross-Cluster Traffic Made Easy: GKE + Istio in Action",
             "date": "2025-10-25",
@@ -478,7 +490,7 @@
             "audience": 75
         },
         {
-            "id": 8,
+            "id": 9,
             "event": "Cloud Community Days Mangalore 2025",
             "title": "Unifying Kubernetes: Live Multi-Cloud Migration to GKE with Istio",
             "date": "2025-07-19",
@@ -490,7 +502,7 @@
             "audience": 750
         },
         {
-            "id": 9,
+            "id": 10,
             "event": "Cloud Community Days Chennai 2025",
             "title": "Unifying Kubernetes: Live Multi-Cloud Migration to GKE with Istio",
             "date": "2025-07-12",
@@ -502,7 +514,7 @@
             "audience": 300
         },
         {
-            "id": 10,
+            "id": 11,
             "event": "Kubernetes Community Days Bengaluru 2025",
             "title": "Setting up Hybrid Workloads with Istio on Kubernetes",
             "date": "2025-06-07",
@@ -515,7 +527,7 @@
             "audience": 300
         },
         {
-            "id": 11,
+            "id": 12,
             "event": "K8SUG India Meetup #3",
             "title": "Navigating the Clouds: Multi-Cluster Networking with Istio Across Multi-Cloud",
             "date": "2025-04-26",
@@ -527,7 +539,7 @@
             "audience": 300
         },
         {
-            "id": 12,
+            "id": 13,
             "event": "GDG On Campus - NIST University",
             "title": "Build with AI: Gemini Workshop",
             "date": "2025-03-29",
@@ -539,7 +551,7 @@
             "audience": 400
         },
         {
-            "id": 13,
+            "id": 14,
             "event": "K8SUG India Meetup #1",
             "title": "Leveraging Istio to connect External VM to Kubernetes",
             "date": "2025-02-15",
