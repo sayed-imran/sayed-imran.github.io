@@ -420,7 +420,7 @@
             "description": "Delivered an interactive, hands-on workshop on Service Mesh 101 with Istio for the Kubesimplify community, covering architecture fundamentals (Control Plane vs Data Plane), sidecar and ambient mesh modes, traffic routing, security with mTLS, and observability.",
             "info": "https://www.youtube.com/watch?v=FwXF-ICECLc",
             "recording": "https://www.youtube.com/watch?v=FwXF-ICECLc",
-            "audience": 350
+            "audience": 1000
         },
         {
             "id": 3,
