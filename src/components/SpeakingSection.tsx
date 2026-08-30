@@ -1,7 +1,7 @@
 'use client';
 
 import { motion } from 'framer-motion';
-import { Mic, Calendar, MapPin, Users, ExternalLink, Info } from 'lucide-react';
+import { Mic, Calendar, MapPin, Users, ExternalLink, Info, Play } from 'lucide-react';
 
 interface SpeakingEvent {
     id: number;
@@ -13,6 +13,7 @@ interface SpeakingEvent {
     description: string;
     slides?: string;
     info?: string;
+    recording?: string;
     audience: number;
 }
 
@@ -115,6 +116,20 @@ export default function SpeakingSection({ events }: SpeakingSectionProps) {
 
                                         {/* Action Buttons */}
                                         <div className="flex flex-wrap gap-3">
+                                            {event.recording && (
+                                                <motion.a
+                                                    href={event.recording}
+                                                    target="_blank"
+                                                    rel="noopener noreferrer"
+                                                    whileHover={{ scale: 1.05 }}
+                                                    whileTap={{ scale: 0.95 }}
+                                                    className="inline-flex items-center px-4 py-2 text-sm bg-red-600/20 border border-red-500/30 text-red-400 rounded-lg hover:bg-red-600/30 transition-all duration-200"
+                                                >
+                                                    <Play className="w-4 h-4 mr-2 fill-current" />
+                                                    Watch Recording
+                                                </motion.a>
+                                            )}
+
                                             {event.slides && (
                                                 <motion.a
                                                     href={event.slides}
@@ -129,7 +144,7 @@ export default function SpeakingSection({ events }: SpeakingSectionProps) {
                                                 </motion.a>
                                             )}
 
-                                            {event.info && (
+                                            {event.info && event.info !== event.recording && (
                                                 <motion.a
                                                     href={event.info}
                                                     target="_blank"

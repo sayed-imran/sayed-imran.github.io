@@ -412,6 +412,18 @@
         },
         {
             "id": 2,
+            "event": "Kubesimplify",
+            "title": "Service Mesh 101 with Istio: Complete Hands-On Workshop",
+            "date": "2026-08-10",
+            "location": "Virtual / Online",
+            "type": "Workshop",
+            "description": "Delivered an interactive, hands-on workshop on Service Mesh 101 with Istio for the Kubesimplify community, covering architecture fundamentals (Control Plane vs Data Plane), sidecar and ambient mesh modes, traffic routing, security with mTLS, and observability.",
+            "info": "https://www.youtube.com/watch?v=FwXF-ICECLc",
+            "recording": "https://www.youtube.com/watch?v=FwXF-ICECLc",
+            "audience": 350
+        },
+        {
+            "id": 3,
             "event": "DeployFest 2026",
             "title": "Technical Mentorship: Cloud Architecture & GenAI on GCP",
             "date": "2026-05-23",
@@ -422,7 +434,7 @@
             "audience": 150
         },
         {
-            "id": 3,
+            "id": 4,
             "event": "Kubernetes Community Days Kochi 2026",
             "title": "Application-Centric Kubernetes Platforms with kro and ArgoCD",
             "date": "2026-04-18",
@@ -433,7 +445,18 @@
             "audience": 400
         },
         {
-            "id": 4,
+            "id": 5,
+            "event": "Open Source Weekend Ahmedabad 2026",
+            "title": "Service Mesh Patterns for Multi-Cluster Kubernetes Environments",
+            "date": "2026-04-04",
+            "location": "Ahmedabad, Gujarat, India",
+            "type": "Workshop",
+            "description": "Conducted a hands-on workshop on Service Mesh Patterns for Multi-Cluster Kubernetes Environments, exploring cross-cluster traffic management, service discovery, and secure workload communication with Istio.",
+            "info": "https://www.linkedin.com/posts/osd2026-sayedimran-opensource-ugcPost-7445180572110462976-OLof/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADHq1EUBnh4aHCEJGg0T9vBPLm4b6nhoAIA",
+            "audience": 250
+        },
+        {
+            "id": 6,
             "event": "Kubernetes Community Days New Delhi 2026",
             "title": "Real-World Multi Cluster Networking Patterns with Istio",
             "date": "2026-02-21",
@@ -444,18 +467,18 @@
             "audience": 400
         },
         {
-            "id": 5,
+            "id": 7,
             "event": "Cloudtoberfest 2025",
             "title": "Cross-Cluster Traffic Made Easy: GKE + Istio in Action",
             "date": "2025-10-25",
             "location": "Bengaluru, India",
-            "type": "Session",
+            "type": "Workshop",
             "description": "Delivered a session and live demonstration on using Istio multi-cluster mesh to establish secure cross-cluster communication, manage routing, and seamlessly migrate Kubernetes workloads to GKE with zero downtime.",
             "info": "https://gdg.community.dev/events/details/google-gdg-cloud-bengaluru-presents-cloudtoberfest-2025/",
             "audience": 75
         },
         {
-            "id": 6,
+            "id": 8,
             "event": "Cloud Community Days Mangalore 2025",
             "title": "Unifying Kubernetes: Live Multi-Cloud Migration to GKE with Istio",
             "date": "2025-07-19",
@@ -467,7 +490,7 @@
             "audience": 750
         },
         {
-            "id": 7,
+            "id": 9,
             "event": "Cloud Community Days Chennai 2025",
             "title": "Unifying Kubernetes: Live Multi-Cloud Migration to GKE with Istio",
             "date": "2025-07-12",
@@ -479,7 +502,7 @@
             "audience": 300
         },
         {
-            "id": 8,
+            "id": 10,
             "event": "Kubernetes Community Days Bengaluru 2025",
             "title": "Setting up Hybrid Workloads with Istio on Kubernetes",
             "date": "2025-06-07",
@@ -491,7 +514,7 @@
             "audience": 300
         },
         {
-            "id": 9,
+            "id": 11,
             "event": "K8SUG India Meetup #3",
             "title": "Navigating the Clouds: Multi-Cluster Networking with Istio Across Multi-Cloud",
             "date": "2025-04-26",
@@ -503,7 +526,7 @@
             "audience": 300
         },
         {
-            "id": 10,
+            "id": 12,
             "event": "GDG On Campus - NIST University",
             "title": "Build with AI: Gemini Workshop",
             "date": "2025-03-29",
@@ -515,7 +538,7 @@
             "audience": 400
         },
         {
-            "id": 11,
+            "id": 13,
             "event": "K8SUG India Meetup #1",
             "title": "Leveraging Istio to connect External VM to Kubernetes",
             "date": "2025-02-15",
