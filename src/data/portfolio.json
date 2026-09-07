@@ -479,7 +479,7 @@
             "title": "Real-World Multi Cluster Networking Patterns with Istio",
             "date": "2026-02-21",
             "location": "New Delhi, India",
-            "type": "Session",
+            "type": "Workshop",
             "description": "In-depth session covering production-grade multi-cluster networking architectures, secure cross-cluster service communication, traffic routing policies, and disaster recovery strategies using Istio service mesh.",
             "info": "https://kcddelhi.com/",
             "audience": 400
