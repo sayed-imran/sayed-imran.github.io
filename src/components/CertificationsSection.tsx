@@ -76,7 +76,12 @@ export default function CertificationsSection({ certifications }: Certifications
                                         <p className="text-gray-300 text-sm mb-2">{cert.issuer}</p>
                                         <div className="flex items-center text-gray-400 text-sm">
                                             <Calendar className="w-4 h-4 mr-1" />
-                                            <span>{cert.date}</span>
+                                            <span>{new Date(cert.date).toLocaleDateString('en-US', {
+                                                year: 'numeric',
+                                                month: 'long',
+                                                day: 'numeric',
+                                                timeZone: 'UTC'
+                                            })}</span>
                                         </div>
                                     </div>
                                 </div>

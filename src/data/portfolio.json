@@ -15,7 +15,7 @@
             "id": 1,
             "name": "Golden Kubestronaut",
             "issuer": "The Linux Foundation",
-            "date": "2026",
+            "date": "2026-02-24",
             "credentialId": "fc7d3733-7c32-493c-850e-088e8fbbc095",
             "logo": "https://images.credly.com/images/1dba0197-1013-4f23-8918-9479f77172d6/blob",
             "verificationUrl": "https://www.credly.com/badges/fc7d3733-7c32-493c-850e-088e8fbbc095"
@@ -24,7 +24,7 @@
             "id": 2,
             "name": "Kubestronaut",
             "issuer": "The Linux Foundation",
-            "date": "2025",
+            "date": "2025-02-10",
             "credentialId": "147f4590-d40c-477e-b45c-408124498824",
             "logo": "https://images.credly.com/images/cd6c6449-6814-4613-a2d3-13cf4ac5be4f/image.png",
             "verificationUrl": "https://www.credly.com/badges/147f4590-d40c-477e-b45c-408124498824"
@@ -33,7 +33,7 @@
             "id": 3,
             "name": "LFCS: Linux Foundation Certified Systems Administrator",
             "issuer": "The Linux Foundation",
-            "date": "2026",
+            "date": "2026-02-17",
             "credentialId": "d1e7176f-7fb7-4329-ad09-7c85fca05e8b",
             "logo": "https://images.credly.com/images/1e6611ca-8afe-4ecc-ad4d-305fba52ee7e/1_LFCS-600x600.png",
             "verificationUrl": "https://www.credly.com/badges/d1e7176f-7fb7-4329-ad09-7c85fca05e8b"
@@ -42,7 +42,7 @@
             "id": 4,
             "name": "OTCA: OpenTelemetry Certified Associate",
             "issuer": "The Linux Foundation",
-            "date": "2026",
+            "date": "2026-02-14",
             "credentialId": "057abad0-1b8f-4291-96be-8d475bf0cf0a",
             "logo": "https://images.credly.com/images/3d3f7131-83a4-4427-8a68-150ca90bcc23/blob",
             "verificationUrl": "https://www.credly.com/badges/057abad0-1b8f-4291-96be-8d475bf0cf0a"
@@ -51,7 +51,7 @@
             "id": 5,
             "name": "CNPA: Certified Cloud Native Platform Engineering Associate",
             "issuer": "The Linux Foundation",
-            "date": "2026",
+            "date": "2026-01-07",
             "credentialId": "bc968f6e-14d0-468c-b93a-2785cde91c56",
             "logo": "https://images.credly.com/images/bf3fc97e-a12c-4567-86ea-01639b9b15fb/blob",
             "verificationUrl": "https://www.credly.com/badges/bc968f6e-14d0-468c-b93a-2785cde91c56"
@@ -60,7 +60,7 @@
             "id": 6,
             "name": "CBA: Certified Backstage Associate",
             "issuer": "The Linux Foundation",
-            "date": "2026",
+            "date": "2026-01-03",
             "credentialId": "583a27f2-fc94-4b5f-85bf-37558eb7c5c2",
             "logo": "https://images.credly.com/images/d84e4fb0-dc7f-4d79-b1eb-a8a973da4965/image.png",
             "verificationUrl": "https://www.credly.com/badges/583a27f2-fc94-4b5f-85bf-37558eb7c5c2"
@@ -69,7 +69,7 @@
             "id": 7,
             "name": "KCA: Kyverno Certified Associate",
             "issuer": "The Linux Foundation",
-            "date": "2026",
+            "date": "2026-01-15",
             "credentialId": "55868ae9-4e73-4fef-a8fd-8a1f07e4b5c4",
             "logo": "https://images.credly.com/images/2592935a-d8fa-405d-b40a-711a75454fc2/image.png",
             "verificationUrl": "https://www.credly.com/badges/55868ae9-4e73-4fef-a8fd-8a1f07e4b5c4"
@@ -78,7 +78,7 @@
             "id": 8,
             "name": "ICA: Istio Certified Associate",
             "issuer": "The Linux Foundation",
-            "date": "2025",
+            "date": "2025-07-28",
             "credentialId": "44cddd26-dfb3-444f-ad02-4a337eb71d73",
             "logo": "https://images.credly.com/images/d7d4ddc8-7df8-4c03-9343-507b51e0ef99/image.png",
             "verificationUrl": "https://www.credly.com/badges/44cddd26-dfb3-444f-ad02-4a337eb71d73"
@@ -87,7 +87,7 @@
             "id": 9,
             "name": "Professional Cloud Developer Certification",
             "issuer": "Google Cloud",
-            "date": "2026",
+            "date": "2026-03-22",
             "credentialId": "885a97d0-69dc-4dd1-8bf6-b4144f94d631",
             "logo": "https://images.credly.com/images/614465c6-1d80-4ae6-a323-753de224422a/image.png",
             "verificationUrl": "https://www.credly.com/badges/885a97d0-69dc-4dd1-8bf6-b4144f94d631"
@@ -96,7 +96,7 @@
             "id": 10,
             "name": "Professional Cloud DevOps Engineer Certification",
             "issuer": "Google Cloud",
-            "date": "2025",
+            "date": "2025-03-01",
             "credentialId": "323a0138-5a71-4f68-962c-e7588e24212e",
             "logo": "https://images.credly.com/images/33f08b7e-fa6a-41cd-810a-21cc1c336f6d/image.png",
             "verificationUrl": "https://www.credly.com/badges/323a0138-5a71-4f68-962c-e7588e24212e"
@@ -105,7 +105,7 @@
             "id": 11,
             "name": "Professional Cloud Network Engineer Certification",
             "issuer": "Google Cloud",
-            "date": "2025",
+            "date": "2025-10-12",
             "credentialId": "7ff6e6e6-fe52-4371-9862-e8737d0cf5e0",
             "logo": "https://images.credly.com/images/08a802bf-f2fa-44fb-8110-92acf6195738/image.png",
             "verificationUrl": "https://www.credly.com/badges/7ff6e6e6-fe52-4371-9862-e8737d0cf5e0"
@@ -114,7 +114,7 @@
             "id": 12,
             "name": "Professional Cloud Architect Certification",
             "issuer": "Google Cloud",
-            "date": "2024",
+            "date": "2024-06-30",
             "credentialId": "1edbf26b-f49a-477a-bd0c-d213f68249c5",
             "logo": "https://images.credly.com/images/71c579e0-51fd-4247-b493-d2fa8167157a/image.png",
             "verificationUrl": "https://www.credly.com/badges/1edbf26b-f49a-477a-bd0c-d213f68249c5"
@@ -123,7 +123,7 @@
             "id": 13,
             "name": "Professional Cloud Security Engineer Certification",
             "issuer": "Google Cloud",
-            "date": "2025",
+            "date": "2025-10-19",
             "credentialId": "50ef02d8-7cf3-401b-8288-8e47ee62d882",
             "logo": "https://images.credly.com/images/4ea0ec5c-6258-4c26-9282-6ed233c0c7ac/image.png",
             "verificationUrl": "https://www.credly.com/badges/50ef02d8-7cf3-401b-8288-8e47ee62d882"
@@ -132,7 +132,7 @@
             "id": 14,
             "name": "Certified Partner Specialist: Gemini Enterprise Agent Development",
             "issuer": "Google Cloud",
-            "date": "2026",
+            "date": "2026-06-15",
             "credentialId": "af4df4a8-8ebd-4f60-8e39-8d53a4e96708",
             "logo": "https://images.credly.com/images/73e93208-0df3-435d-b58c-07c8ee6019d9/blob",
             "verificationUrl": "https://www.credly.com/badges/af4df4a8-8ebd-4f60-8e39-8d53a4e96708"
@@ -141,7 +141,7 @@
             "id": 15,
             "name": "Certified Partner Specialist: Gemini Enterprise Deployment",
             "issuer": "Google Cloud",
-            "date": "2026",
+            "date": "2026-06-15",
             "credentialId": "98cd44b3-6d82-46d6-b742-b16dfbb13533",
             "logo": "https://images.credly.com/images/f874c419-9e95-4db2-85f9-4e45b89833f5/blob",
             "verificationUrl": "https://www.credly.com/badges/98cd44b3-6d82-46d6-b742-b16dfbb13533"
@@ -150,7 +150,7 @@
             "id": 16,
             "name": "AWS Certified Solutions Architect – Associate",
             "issuer": "Amazon Web Services",
-            "date": "2023",
+            "date": "2023-08-27",
             "credentialId": "48d44d7b-e0d4-4beb-89ca-89ec5ea397b6",
             "logo": "https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png",
             "verificationUrl": "https://www.credly.com/badges/48d44d7b-e0d4-4beb-89ca-89ec5ea397b6"
@@ -159,7 +159,7 @@
             "id": 17,
             "name": "CCA: Cilium Certified Associate",
             "issuer": "The Linux Foundation",
-            "date": "2025",
+            "date": "2025-12-18",
             "credentialId": "7acfa5a4-e130-4566-ae83-7ae3543cb63e",
             "logo": "https://images.credly.com/images/729367b3-0344-4b00-a6da-53e1807f808a/image.png",
             "verificationUrl": "https://www.credly.com/badges/7acfa5a4-e130-4566-ae83-7ae3543cb63e"
@@ -168,7 +168,7 @@
             "id": 18,
             "name": "PCA: Prometheus Certified Associate",
             "issuer": "The Linux Foundation",
-            "date": "2025",
+            "date": "2025-12-07",
             "credentialId": "8930e6d1-48e2-4694-9dfe-756fe62d9041",
             "logo": "https://images.credly.com/images/c34436dc-1cfd-4125-a862-35f9c86ca17f/image.png",
             "verificationUrl": "https://www.credly.com/badges/8930e6d1-48e2-4694-9dfe-756fe62d9041"
@@ -177,7 +177,7 @@
             "id": 19,
             "name": "CAPA: Certified Argo Project Associate",
             "issuer": "The Linux Foundation",
-            "date": "2025",
+            "date": "2025-12-15",
             "credentialId": "8d9e420d-c21e-4b42-bece-007acc6bd57d",
             "logo": "https://images.credly.com/images/12624f9e-6b4a-43f0-b7a2-afb2c6cf8059/image.png",
             "verificationUrl": "https://www.credly.com/badges/8d9e420d-c21e-4b42-bece-007acc6bd57d"
@@ -186,7 +186,7 @@
             "id": 20,
             "name": "CGOA: Certified GitOps Associate",
             "issuer": "The Linux Foundation",
-            "date": "2025",
+            "date": "2025-12-08",
             "credentialId": "c11d039f-f793-45ce-903c-f589fec1b2ff",
             "logo": "https://images.credly.com/images/7219d055-4e97-439c-b244-8fbe885fa06b/image.png",
             "verificationUrl": "https://www.credly.com/badges/c11d039f-f793-45ce-903c-f589fec1b2ff"
@@ -195,7 +195,7 @@
             "id": 21,
             "name": "CKS: Certified Kubernetes Security Specialist",
             "issuer": "The Linux Foundation",
-            "date": "2025",
+            "date": "2025-01-31",
             "credentialId": "3f583a37-c323-4d0b-bea3-51e1a1e7464c",
             "logo": "https://images.credly.com/images/9945dfcb-1cca-4529-85e6-db1be3782210/kubernetes-security-specialist-logo2.png",
             "verificationUrl": "https://www.credly.com/badges/3f583a37-c323-4d0b-bea3-51e1a1e7464c"
@@ -204,7 +204,7 @@
             "id": 22,
             "name": "CKA: Certified Kubernetes Administrator",
             "issuer": "The Linux Foundation",
-            "date": "2025",
+            "date": "2025-01-14",
             "credentialId": "e228cc5d-ebbb-4914-8c88-26a5184ae176",
             "logo": "https://images.credly.com/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png",
             "verificationUrl": "https://www.credly.com/badges/e228cc5d-ebbb-4914-8c88-26a5184ae176"
@@ -213,7 +213,7 @@
             "id": 23,
             "name": "CKAD: Certified Kubernetes Application Developer",
             "issuer": "The Linux Foundation",
-            "date": "2024",
+            "date": "2024-05-11",
             "credentialId": "7246cf55-f754-4665-b1ea-ce8164259811",
             "logo": "https://images.credly.com/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob",
             "verificationUrl": "https://www.credly.com/badges/7246cf55-f754-4665-b1ea-ce8164259811"
@@ -222,7 +222,7 @@
             "id": 24,
             "name": "KCNA: Kubernetes and Cloud Native Associate",
             "issuer": "The Linux Foundation",
-            "date": "2025",
+            "date": "2025-01-05",
             "credentialId": "22e0a74b-ef82-4729-abaf-98500ad9de8d",
             "logo": "https://images.credly.com/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png",
             "verificationUrl": "https://www.credly.com/badges/22e0a74b-ef82-4729-abaf-98500ad9de8d"
@@ -231,7 +231,7 @@
             "id": 25,
             "name": "KCSA: Kubernetes and Cloud Native Security Associate",
             "issuer": "The Linux Foundation",
-            "date": "2025",
+            "date": "2025-02-10",
             "credentialId": "f911dee8-a386-4877-97ae-3b08f5b590fd",
             "logo": "https://images.credly.com/images/67dd8a95-8876-4051-9cb9-3d97c204f85a/image.png",
             "verificationUrl": "https://www.credly.com/badges/f911dee8-a386-4877-97ae-3b08f5b590fd"
@@ -240,7 +240,7 @@
             "id": 26,
             "name": "Associate Cloud Engineer Certification",
             "issuer": "Google Cloud",
-            "date": "2023",
+            "date": "2023-03-13",
             "credentialId": "1b53f333-b9e3-47ed-a25b-b8400786d0aa",
             "logo": "https://images.credly.com/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/image.png",
             "verificationUrl": "https://www.credly.com/badges/1b53f333-b9e3-47ed-a25b-b8400786d0aa"
@@ -249,7 +249,7 @@
             "id": 27,
             "name": "Cloud Digital Leader Certification",
             "issuer": "Google Cloud",
-            "date": "2022",
+            "date": "2022-11-08",
             "credentialId": "6100bd91-ee6c-4c45-908c-608c6f22343a",
             "logo": "https://images.credly.com/images/44994cda-b5b0-44cb-9a6d-d29b57163073/image.png",
             "verificationUrl": "https://www.credly.com/badges/6100bd91-ee6c-4c45-908c-608c6f22343a"
@@ -258,7 +258,7 @@
             "id": 28,
             "name": "GitHub Actions",
             "issuer": "GitHub",
-            "date": "2024",
+            "date": "2024-08-04",
             "credentialId": "50ced870-06d2-4fdc-b67e-0652167ae5c9",
             "logo": "https://images.credly.com/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png",
             "verificationUrl": "https://www.credly.com/badges/50ced870-06d2-4fdc-b67e-0652167ae5c9"
@@ -267,7 +267,7 @@
             "id": 29,
             "name": "GitHub Foundations",
             "issuer": "GitHub",
-            "date": "2024",
+            "date": "2024-06-23",
             "credentialId": "284b06fe-0e02-49c3-865c-fd028d92797f",
             "logo": "https://images.credly.com/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png",
             "verificationUrl": "https://www.credly.com/badges/284b06fe-0e02-49c3-865c-fd028d92797f"
