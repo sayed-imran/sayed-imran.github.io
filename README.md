@@ -19,27 +19,58 @@ Passionate DevOps Engineer with expertise in cloud technologies, container orche
 
 | # | Date | Event | Talk Title | Type | Location | Audience | Links |
 |---|------|-------|------------|------|----------|----------|-------|
-| 1 | Aug 22 | Cloud Native Summit Kerala 2026 | AI Agents Burning Your Budget? Time to Hire a Manager | Session | Kochi, Kerala, India | ~600 | [Info](https://www.linkedin.com/posts/sayed-imran_cnskerala-cloudnative-kubernetes-ugcPost-7498306430161059840-0DHo/) |
-| 2 | Aug 10 | Kubesimplify | Service Mesh 101 with Istio: Complete Hands-On Workshop | Workshop | Virtual / Online | ~1000 | [Info](https://www.youtube.com/watch?v=FwXF-ICECLc) · [Recording](https://www.youtube.com/watch?v=FwXF-ICECLc) |
-| 3 | May 23 | DeployFest 2026 | Technical Mentorship: Cloud Architecture & GenAI on GCP | Mentorship | Bengaluru, India | ~150 | [Info](https://www.linkedin.com/posts/sayed-imran_deployfest2026-mentorship-hackathon-ugcPost-7469633998298963969-r4lZ/) |
-| 4 | Apr 18 | Kubernetes Community Days Kochi 2026 | Application-Centric Kubernetes Platforms with kro and ArgoCD | Session | Kochi, Kerala, India | ~400 | [Info](https://community.cncf.io/events/details/cncf-kcd-kochi-presents-kcd-kochi-2026/) |
-| 5 | Apr 04 | Open Source Weekend Ahmedabad 2026 | Service Mesh Patterns for Multi-Cluster Kubernetes Environments | Workshop | Ahmedabad, Gujarat, India | ~250 | [Info](https://www.linkedin.com/posts/osd2026-sayedimran-opensource-ugcPost-7445180572110462976-OLof/) |
-| 6 | Feb 21 | Kubernetes Community Days New Delhi 2026 | Real-World Multi Cluster Networking Patterns with Istio | Session | New Delhi, India | ~400 | [Info](https://kcddelhi.com/) |
-| 7 | Jan 25 | Cloud Native Bhubaneswar Meetup #4 | Reducing Kubernetes YAML Sprawl with kro | Session | Virtual / Online | ~250 | [Info](https://ocgroups.dev/cncf/group/bhubaneswar/event/t9r6wzn) · [Recording](https://www.youtube.com/watch?v=Bk3_BIoa9kM&t=5966s) |
+| 1 | Oct 08 | Open Source India 2026 | The Open Source Jarvis: Build Your Own Private Assistant | Workshop | Bengaluru, India | ~25 | [Info](https://www.linkedin.com/posts/opensourceindia-osi2026-localai-share-7506596810862448640-Z2n4/) · [Slides](https://docs.google.com/presentation/d/1-S1g7nzEnVNZ-INgTv3WLlw8e5ooaWSyyHrP5Lutrfo/edit?usp=sharing) |
+| 2 | Sep 11 | AppForge - Mozilla Firefox Club VIT Vellore | The Modern Software Delivery | Session | VIT Vellore, Tamil Nadu, India | ~200 | [Info](https://www.linkedin.com/posts/sayed-imran_appforge-vitvellore-mozillafirefoxclub-share-7507476069881495552-ukE3) · [Slides](https://docs.google.com/presentation/d/1ixj9UAwG5tNZoQsrfMwfFIlc3C2X0uToT3uu5zAwgwY/edit?usp=sharing) |
+| 3 | Aug 22 | Cloud Native Summit Kerala 2026 | AI Agents Burning Your Budget? Time to Hire a Manager | Session | Kochi, Kerala, India | ~600 | [Info](https://www.linkedin.com/posts/sayed-imran_cnskerala-cloudnative-kubernetes-ugcPost-7498306430161059840-0DHo/) · [Slides](https://docs.google.com/presentation/d/1k418sRHQKTcLzCRsmNVZVIu6ll9BK514/) |
+| 4 | Aug 10 | Kubesimplify | Service Mesh 101 with Istio: Complete Hands-On Workshop | Workshop | Virtual / Online | ~1700 | [Info](https://www.youtube.com/watch?v=FwXF-ICECLc) · [Slides](https://docs.google.com/presentation/d/1QJeqXJPy-OsaMl7cMf9hUovCTyypsSmoWzV_ETENfWA/) · [Recording](https://www.youtube.com/watch?v=FwXF-ICECLc) |
+| 5 | May 23 | DeployFest 2026 | Technical Mentorship: Cloud Architecture & GenAI on GCP | Mentorship | Bengaluru, India | ~150 | [Info](https://www.linkedin.com/posts/sayed-imran_deployfest2026-mentorship-hackathon-ugcPost-7469633998298963969-r4lZ/) |
+| 6 | Apr 18 | Kubernetes Community Days Kochi 2026 | Application-Centric Kubernetes Platforms with kro and ArgoCD | Session | Kochi, Kerala, India | ~400 | [Info](https://community.cncf.io/events/details/cncf-kcd-kochi-presents-kcd-kochi-2026/) · [Slides](https://docs.google.com/presentation/d/13LZrk8g4kFrNIlRXsvbSsLd--Q_gAz6WCzcrnamkrjY/) · [Recording](https://youtu.be/DlcYaXsoQjA?si=TX0OQtB3WHBeqmVL) |
+| 7 | Apr 04 | Open Source Weekend Ahmedabad 2026 | Service Mesh Patterns for Multi-Cluster Kubernetes Environments | Workshop | Ahmedabad, Gujarat, India | ~250 | [Info](https://www.linkedin.com/posts/osd2026-sayedimran-opensource-ugcPost-7445180572110462976-OLof/) |
+| 8 | Feb 21 | Kubernetes Community Days New Delhi 2026 | Real-World Multi Cluster Networking Patterns with Istio | Workshop | New Delhi, India | ~400 | [Info](https://kcddelhi.com/) · [Slides](https://docs.google.com/presentation/d/17fCHn-ryORMQxdDakD-RLwrVNDfvhS-3/) |
+| 9 | Jan 25 | Cloud Native Bhubaneswar Meetup #4 | Reducing Kubernetes YAML Sprawl with kro | Session | Virtual / Online | ~250 | [Info](https://ocgroups.dev/cncf/group/bhubaneswar/event/t9r6wzn) · [Slides](https://docs.google.com/presentation/d/1H9abbC6n-p1zlLJVk-KpkWHeQLNGQwH9QpM-ce7IZA0/) · [Recording](https://www.youtube.com/watch?v=Bk3_BIoa9kM&t=5966s) |
 
 ### 2025
 
 | # | Date | Event | Talk Title | Type | Location | Audience | Links |
 |---|------|-------|------------|------|----------|----------|-------|
 | 1 | Oct 25 | Cloudtoberfest 2025 | Cross-Cluster Traffic Made Easy: GKE + Istio in Action | Workshop | Bengaluru, India | ~75 | [Info](https://gdg.community.dev/events/details/google-gdg-cloud-bengaluru-presents-cloudtoberfest-2025/) |
-| 2 | Jul 19 | Cloud Community Days Mangalore 2025 | Unifying Kubernetes: Live Multi-Cloud Migration to GKE with Istio | Session | Mangalore, India | ~750 | [Info](https://gdg.community.dev/events/details/google-gdg-cloud-mangalore-presents-google-cloud-community-days-2025-mangalore/) · [Slides](https://docs.google.com/presentation/d/1hMRxmTy6KmDNvFPvYx8AmWjXJTw6cUToGg7G6WblOrk/) |
-| 3 | Jul 12 | Cloud Community Days Chennai 2025 | Unifying Kubernetes: Live Multi-Cloud Migration to GKE with Istio | Session | Chennai, India | ~300 | [Info](https://gdg.community.dev/events/details/google-gdg-cloud-chennai-presents-cloud-community-days-2025-chennai/) · [Slides](https://docs.google.com/presentation/d/1hMRxmTy6KmDNvFPvYx8AmWjXJTw6cUToGg7G6WblOrk/) |
-| 4 | Jun 07 | Kubernetes Community Days Bengaluru 2025 | Setting up Hybrid Workloads with Istio on Kubernetes | Lightning Talk | Bengaluru, India | ~300 | [Info](https://www.linkedin.com/posts/sayed-imran_kubernetes-kcdblr-kcd2025-activity-7338085677298851842-W9UY) · [Slides](https://docs.google.com/presentation/d/15uxEVLLu_PwihvJcVyTXl2M2JBNJHgsZ/edit?usp=sharing&ouid=109155821986244082307&rtpof=true&sd=true) · [Recording](https://youtu.be/08sw2w-RL2o?si=Au1nKz5I1KPQ9kvu) |
-| 5 | Apr 26 | K8SUG India Meetup #3 | Navigating the Clouds: Multi-Cluster Networking with Istio Across Multi-Cloud | Session | Bengaluru, India | ~300 | [Info](https://www.linkedin.com/posts/sayed-imran_kubernetes-istio-cloudnative-activity-7322462085567651841-vU0i) · [Slides](https://www.canva.com/design/DAGlnEkRWiM/E1SUKO2_KWJ0ZqVGoPCMkQ/view) |
-| 6 | Mar 29 | GDG On Campus - NIST University | Build with AI: Gemini Workshop | Workshop | NIST University, Berhampur, Odisha | ~400 | [Info](https://www.linkedin.com/posts/gdgnist_buildwithai-geminiworkshop-googledevelopers-activity-7311339078422011904-dcpv) · [Slides](https://www.canva.com/design/DAGi_AOmAQ8/KBw6DxH96KW81p7xV6vfpQ/view) |
-| 7 | Feb 15 | K8SUG India Meetup #1 | Leveraging Istio to connect External VM to Kubernetes | Session | Bengaluru, India | ~200 | [Info](https://www.linkedin.com/posts/sayed-imran_kubestronaut-kubernetes-istio-activity-7296915438997839872-1CuM) · [Slides](https://www.canva.com/design/DAGeuAUNAcE/l9ZUMxdVTH3N7OQPzsOJmw/view) |
+| 2 | Sep 30 | GDG On Campus - MREM | From Code to Cloud: A Beginner's Guide to DevOps | Session | Virtual / Online | ~1700 | [Slides](https://docs.google.com/presentation/d/1qOqozJjjWDeBVhaDboZUU3ZV5c4jSh6AAOkaS2DYblA/) · [Recording](https://www.youtube.com/live/PPDXCg9LPaY) |
+| 3 | Jul 19 | Google Cloud Community Days Mangalore 2025 | Unifying Kubernetes: Live Multi-Cloud Migration to GKE with Istio | Session | Mangalore, India | ~700 | [Info](https://gdg.community.dev/events/details/google-gdg-cloud-mangalore-presents-google-cloud-community-days-2025-mangalore/) · [Slides](https://docs.google.com/presentation/d/1hMRxmTy6KmDNvFPvYx8AmWjXJTw6cUToGg7G6WblOrk/) |
+| 4 | Jul 12 | Google Cloud Community Days Chennai 2025 | Unifying Kubernetes: Live Multi-Cloud Migration to GKE with Istio | Session | Chennai, India | ~300 | [Info](https://gdg.community.dev/events/details/google-gdg-cloud-chennai-presents-cloud-community-days-2025-chennai/) · [Slides](https://docs.google.com/presentation/d/1hMRxmTy6KmDNvFPvYx8AmWjXJTw6cUToGg7G6WblOrk/) |
+| 5 | Jun 07 | Kubernetes Community Days Bengaluru 2025 | Setting up Hybrid Workloads with Istio on Kubernetes | Lightning Talk | Bengaluru, India | ~600 | [Info](https://www.linkedin.com/posts/sayed-imran_kubernetes-kcdblr-kcd2025-activity-7338085677298851842-W9UY) · [Slides](https://docs.google.com/presentation/d/15uxEVLLu_PwihvJcVyTXl2M2JBNJHgsZ/edit?usp=sharing&ouid=109155821986244082307&rtpof=true&sd=true) · [Recording](https://youtu.be/08sw2w-RL2o?si=Au1nKz5I1KPQ9kvu) |
+| 6 | Apr 26 | K8SUG India Meetup #3 | Navigating the Clouds: Multi-Cluster Networking with Istio Across Multi-Cloud | Session | Bengaluru, India | ~200 | [Info](https://www.linkedin.com/posts/sayed-imran_kubernetes-istio-cloudnative-activity-7322462085567651841-vU0i) · [Slides](https://www.canva.com/design/DAGlnEkRWiM/E1SUKO2_KWJ0ZqVGoPCMkQ/view) |
+| 7 | Mar 29 | GDG On Campus - NIST University | Build with AI: Gemini Workshop | Workshop | NIST University, Berhampur, Odisha | ~250 | [Info](https://www.linkedin.com/posts/gdgnist_buildwithai-geminiworkshop-googledevelopers-activity-7311339078422011904-dcpv) · [Slides](https://www.canva.com/design/DAGi_AOmAQ8/KBw6DxH96KW81p7xV6vfpQ/view) |
+| 8 | Feb 15 | K8SUG India Meetup #1 | Leveraging Istio to connect External VM to Kubernetes | Session | Bengaluru, India | ~200 | [Info](https://www.linkedin.com/posts/sayed-imran_kubestronaut-kubernetes-istio-activity-7296915438997839872-1CuM) · [Slides](https://www.canva.com/design/DAGeuAUNAcE/l9ZUMxdVTH3N7OQPzsOJmw/view) · [Recording](https://drive.google.com/file/d/1G6cGw9NJDGqa7LebMte7Ze-y96jRC1WK/view?usp=sharing) |
 
 ### Talk Descriptions (Copy-Paste Ready)
+
+<details>
+<summary><b>The Open Source Jarvis: Build Your Own Private Assistant</b> — Open Source India 2026</summary>
+
+> Hands-on workshop on building a fully private, self-hosted voice assistant from open-source components, serving Gemma 4 with vLLM alongside open speech-to-text and text-to-speech models, all running locally in Docker.
+
+- **Event:** Open Source India 2026
+- **Date:** October 08, 2026
+- **Location:** Bengaluru, India
+- **Type:** Workshop
+- **Audience:** ~25
+- **Info:** https://www.linkedin.com/posts/opensourceindia-osi2026-localai-share-7506596810862448640-Z2n4/
+- **Slides:** https://docs.google.com/presentation/d/1-S1g7nzEnVNZ-INgTv3WLlw8e5ooaWSyyHrP5Lutrfo/edit?usp=sharing
+</details>
+
+<details>
+<summary><b>The Modern Software Delivery</b> — AppForge - Mozilla Firefox Club VIT Vellore</summary>
+
+> A walkthrough of how modern software gets delivered, from the SDLC and virtual machines to containers with Docker, orchestration with Kubernetes, and CI/CD pipelines on Google Cloud.
+
+- **Event:** AppForge - Mozilla Firefox Club VIT Vellore
+- **Date:** September 11, 2026
+- **Location:** VIT Vellore, Tamil Nadu, India
+- **Type:** Session
+- **Audience:** ~200
+- **Info:** https://www.linkedin.com/posts/sayed-imran_appforge-vitvellore-mozillafirefoxclub-share-7507476069881495552-ukE3
+- **Slides:** https://docs.google.com/presentation/d/1ixj9UAwG5tNZoQsrfMwfFIlc3C2X0uToT3uu5zAwgwY/edit?usp=sharing
+</details>
 
 <details>
 <summary><b>AI Agents Burning Your Budget? Time to Hire a Manager</b> — Cloud Native Summit Kerala 2026</summary>
@@ -52,6 +83,7 @@ Passionate DevOps Engineer with expertise in cloud technologies, container orche
 - **Type:** Session
 - **Audience:** ~600
 - **Info:** https://www.linkedin.com/posts/sayed-imran_cnskerala-cloudnative-kubernetes-ugcPost-7498306430161059840-0DHo/
+- **Slides:** https://docs.google.com/presentation/d/1k418sRHQKTcLzCRsmNVZVIu6ll9BK514/
 </details>
 
 <details>
@@ -63,8 +95,9 @@ Passionate DevOps Engineer with expertise in cloud technologies, container orche
 - **Date:** August 10, 2026
 - **Location:** Virtual / Online
 - **Type:** Workshop
-- **Audience:** ~1000
+- **Audience:** ~1700
 - **Info:** https://www.youtube.com/watch?v=FwXF-ICECLc
+- **Slides:** https://docs.google.com/presentation/d/1QJeqXJPy-OsaMl7cMf9hUovCTyypsSmoWzV_ETENfWA/
 - **Recording:** https://www.youtube.com/watch?v=FwXF-ICECLc
 </details>
 
@@ -92,6 +125,8 @@ Passionate DevOps Engineer with expertise in cloud technologies, container orche
 - **Type:** Session
 - **Audience:** ~400
 - **Info:** https://community.cncf.io/events/details/cncf-kcd-kochi-presents-kcd-kochi-2026/
+- **Slides:** https://docs.google.com/presentation/d/13LZrk8g4kFrNIlRXsvbSsLd--Q_gAz6WCzcrnamkrjY/
+- **Recording:** https://youtu.be/DlcYaXsoQjA?si=TX0OQtB3WHBeqmVL
 </details>
 
 <details>
@@ -115,9 +150,10 @@ Passionate DevOps Engineer with expertise in cloud technologies, container orche
 - **Event:** Kubernetes Community Days New Delhi 2026
 - **Date:** February 21, 2026
 - **Location:** New Delhi, India
-- **Type:** Session
+- **Type:** Workshop
 - **Audience:** ~400
 - **Info:** https://kcddelhi.com/
+- **Slides:** https://docs.google.com/presentation/d/17fCHn-ryORMQxdDakD-RLwrVNDfvhS-3/
 </details>
 
 <details>
@@ -131,6 +167,7 @@ Passionate DevOps Engineer with expertise in cloud technologies, container orche
 - **Type:** Session
 - **Audience:** ~250
 - **Info:** https://ocgroups.dev/cncf/group/bhubaneswar/event/t9r6wzn
+- **Slides:** https://docs.google.com/presentation/d/1H9abbC6n-p1zlLJVk-KpkWHeQLNGQwH9QpM-ce7IZA0/
 - **Recording:** https://www.youtube.com/watch?v=Bk3_BIoa9kM&t=5966s
 </details>
 
@@ -148,25 +185,39 @@ Passionate DevOps Engineer with expertise in cloud technologies, container orche
 </details>
 
 <details>
-<summary><b>Unifying Kubernetes: Live Multi-Cloud Migration to GKE with Istio</b> — Cloud Community Days Mangalore 2025</summary>
+<summary><b>From Code to Cloud: A Beginner's Guide to DevOps</b> — GDG On Campus - MREM</summary>
+
+> A beginner-friendly DevOps webinar covering the journey from code to cloud with Git and GitHub, Docker, Jenkins-based CI/CD, Kubernetes and Google Cloud.
+
+- **Event:** GDG On Campus - MREM
+- **Date:** September 30, 2025
+- **Location:** Virtual / Online
+- **Type:** Session
+- **Audience:** ~1700
+- **Slides:** https://docs.google.com/presentation/d/1qOqozJjjWDeBVhaDboZUU3ZV5c4jSh6AAOkaS2DYblA/
+- **Recording:** https://www.youtube.com/live/PPDXCg9LPaY
+</details>
+
+<details>
+<summary><b>Unifying Kubernetes: Live Multi-Cloud Migration to GKE with Istio</b> — Google Cloud Community Days Mangalore 2025</summary>
 
 > A comprehensive session on leveraging Istio for cross-cluster networking across EKS and GKE Azure Kubernetes clusters, including a live migration demonstration.
 
-- **Event:** Cloud Community Days Mangalore 2025
+- **Event:** Google Cloud Community Days Mangalore 2025
 - **Date:** July 19, 2025
 - **Location:** Mangalore, India
 - **Type:** Session
-- **Audience:** ~750
+- **Audience:** ~700
 - **Info:** https://gdg.community.dev/events/details/google-gdg-cloud-mangalore-presents-google-cloud-community-days-2025-mangalore/
 - **Slides:** https://docs.google.com/presentation/d/1hMRxmTy6KmDNvFPvYx8AmWjXJTw6cUToGg7G6WblOrk/
 </details>
 
 <details>
-<summary><b>Unifying Kubernetes: Live Multi-Cloud Migration to GKE with Istio</b> — Cloud Community Days Chennai 2025</summary>
+<summary><b>Unifying Kubernetes: Live Multi-Cloud Migration to GKE with Istio</b> — Google Cloud Community Days Chennai 2025</summary>
 
 > A comprehensive session on leveraging Istio for cross-cluster networking across AWS and GKE Kubernetes clusters, including a live migration demonstration.
 
-- **Event:** Cloud Community Days Chennai 2025
+- **Event:** Google Cloud Community Days Chennai 2025
 - **Date:** July 12, 2025
 - **Location:** Chennai, India
 - **Type:** Session
@@ -184,7 +235,7 @@ Passionate DevOps Engineer with expertise in cloud technologies, container orche
 - **Date:** June 07, 2025
 - **Location:** Bengaluru, India
 - **Type:** Lightning Talk
-- **Audience:** ~300
+- **Audience:** ~600
 - **Info:** https://www.linkedin.com/posts/sayed-imran_kubernetes-kcdblr-kcd2025-activity-7338085677298851842-W9UY
 - **Slides:** https://docs.google.com/presentation/d/15uxEVLLu_PwihvJcVyTXl2M2JBNJHgsZ/edit?usp=sharing&ouid=109155821986244082307&rtpof=true&sd=true
 - **Recording:** https://youtu.be/08sw2w-RL2o?si=Au1nKz5I1KPQ9kvu
@@ -199,7 +250,7 @@ Passionate DevOps Engineer with expertise in cloud technologies, container orche
 - **Date:** April 26, 2025
 - **Location:** Bengaluru, India
 - **Type:** Session
-- **Audience:** ~300
+- **Audience:** ~200
 - **Info:** https://www.linkedin.com/posts/sayed-imran_kubernetes-istio-cloudnative-activity-7322462085567651841-vU0i
 - **Slides:** https://www.canva.com/design/DAGlnEkRWiM/E1SUKO2_KWJ0ZqVGoPCMkQ/view
 </details>
@@ -213,7 +264,7 @@ Passionate DevOps Engineer with expertise in cloud technologies, container orche
 - **Date:** March 29, 2025
 - **Location:** NIST University, Berhampur, Odisha
 - **Type:** Workshop
-- **Audience:** ~400
+- **Audience:** ~250
 - **Info:** https://www.linkedin.com/posts/gdgnist_buildwithai-geminiworkshop-googledevelopers-activity-7311339078422011904-dcpv
 - **Slides:** https://www.canva.com/design/DAGi_AOmAQ8/KBw6DxH96KW81p7xV6vfpQ/view
 </details>
@@ -230,6 +281,7 @@ Passionate DevOps Engineer with expertise in cloud technologies, container orche
 - **Audience:** ~200
 - **Info:** https://www.linkedin.com/posts/sayed-imran_kubestronaut-kubernetes-istio-activity-7296915438997839872-1CuM
 - **Slides:** https://www.canva.com/design/DAGeuAUNAcE/l9ZUMxdVTH3N7OQPzsOJmw/view
+- **Recording:** https://drive.google.com/file/d/1G6cGw9NJDGqa7LebMte7Ze-y96jRC1WK/view?usp=sharing
 </details>
 
 ---

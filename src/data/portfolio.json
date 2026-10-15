@@ -419,29 +419,55 @@
     "speaking": [
         {
             "id": 1,
+            "event": "Open Source India 2026",
+            "title": "The Open Source Jarvis: Build Your Own Private Assistant",
+            "date": "2026-10-08",
+            "location": "Bengaluru, India",
+            "type": "Workshop",
+            "description": "Hands-on workshop on building a fully private, self-hosted voice assistant from open-source components, serving Gemma 4 with vLLM alongside open speech-to-text and text-to-speech models, all running locally in Docker.",
+            "slides": "https://docs.google.com/presentation/d/1-S1g7nzEnVNZ-INgTv3WLlw8e5ooaWSyyHrP5Lutrfo/edit?usp=sharing",
+            "info": "https://www.linkedin.com/posts/opensourceindia-osi2026-localai-share-7506596810862448640-Z2n4/",
+            "audience": 25
+        },
+        {
+            "id": 2,
+            "event": "AppForge - Mozilla Firefox Club VIT Vellore",
+            "title": "The Modern Software Delivery",
+            "date": "2026-09-11",
+            "location": "VIT Vellore, Tamil Nadu, India",
+            "type": "Session",
+            "description": "A walkthrough of how modern software gets delivered, from the SDLC and virtual machines to containers with Docker, orchestration with Kubernetes, and CI/CD pipelines on Google Cloud.",
+            "slides": "https://docs.google.com/presentation/d/1ixj9UAwG5tNZoQsrfMwfFIlc3C2X0uToT3uu5zAwgwY/edit?usp=sharing",
+            "info": "https://www.linkedin.com/posts/sayed-imran_appforge-vitvellore-mozillafirefoxclub-share-7507476069881495552-ukE3",
+            "audience": 200
+        },
+        {
+            "id": 3,
             "event": "Cloud Native Summit Kerala 2026",
             "title": "AI Agents Burning Your Budget? Time to Hire a Manager",
             "date": "2026-08-22",
             "location": "Kochi, Kerala, India",
             "type": "Session",
             "description": "Discover how to leverage Kubernetes' built-in self-healing capabilities to control costs when building with AI agents. Learn how to stop agents from burning budgets by properly utilizing control loops and reconciliation, instead of bypassing them with complex custom automations.",
+            "slides": "https://docs.google.com/presentation/d/1k418sRHQKTcLzCRsmNVZVIu6ll9BK514/",
             "info": "https://www.linkedin.com/posts/sayed-imran_cnskerala-cloudnative-kubernetes-ugcPost-7498306430161059840-0DHo/",
             "audience": 600
         },
         {
-            "id": 2,
+            "id": 4,
             "event": "Kubesimplify",
             "title": "Service Mesh 101 with Istio: Complete Hands-On Workshop",
             "date": "2026-08-10",
             "location": "Virtual / Online",
             "type": "Workshop",
             "description": "Delivered an interactive, hands-on workshop on Service Mesh 101 with Istio for the Kubesimplify community, covering architecture fundamentals (Control Plane vs Data Plane), sidecar and ambient mesh modes, traffic routing, security with mTLS, and observability.",
+            "slides": "https://docs.google.com/presentation/d/1QJeqXJPy-OsaMl7cMf9hUovCTyypsSmoWzV_ETENfWA/",
             "info": "https://www.youtube.com/watch?v=FwXF-ICECLc",
             "recording": "https://www.youtube.com/watch?v=FwXF-ICECLc",
-            "audience": 1000
+            "audience": 1700
         },
         {
-            "id": 3,
+            "id": 5,
             "event": "DeployFest 2026",
             "title": "Technical Mentorship: Cloud Architecture & GenAI on GCP",
             "date": "2026-05-23",
@@ -452,18 +478,20 @@
             "audience": 150
         },
         {
-            "id": 4,
+            "id": 6,
             "event": "Kubernetes Community Days Kochi 2026",
             "title": "Application-Centric Kubernetes Platforms with kro and ArgoCD",
             "date": "2026-04-18",
             "location": "Kochi, Kerala, India",
             "type": "Session",
             "description": "Demonstrated building scalable internal developer platforms (IDP) by combining kro for declarative, reusable Kubernetes application resource abstractions and ArgoCD for GitOps-driven continuous delivery.",
+            "slides": "https://docs.google.com/presentation/d/13LZrk8g4kFrNIlRXsvbSsLd--Q_gAz6WCzcrnamkrjY/",
             "info": "https://community.cncf.io/events/details/cncf-kcd-kochi-presents-kcd-kochi-2026/",
+            "recording": "https://youtu.be/DlcYaXsoQjA?si=TX0OQtB3WHBeqmVL",
             "audience": 400
         },
         {
-            "id": 5,
+            "id": 7,
             "event": "Open Source Weekend Ahmedabad 2026",
             "title": "Service Mesh Patterns for Multi-Cluster Kubernetes Environments",
             "date": "2026-04-04",
@@ -474,30 +502,32 @@
             "audience": 250
         },
         {
-            "id": 6,
+            "id": 8,
             "event": "Kubernetes Community Days New Delhi 2026",
             "title": "Real-World Multi Cluster Networking Patterns with Istio",
             "date": "2026-02-21",
             "location": "New Delhi, India",
             "type": "Workshop",
             "description": "In-depth session covering production-grade multi-cluster networking architectures, secure cross-cluster service communication, traffic routing policies, and disaster recovery strategies using Istio service mesh.",
+            "slides": "https://docs.google.com/presentation/d/17fCHn-ryORMQxdDakD-RLwrVNDfvhS-3/",
             "info": "https://kcddelhi.com/",
             "audience": 400
         },
         {
-            "id": 7,
+            "id": 9,
             "event": "Cloud Native Bhubaneswar Meetup #4",
             "title": "Reducing Kubernetes YAML Sprawl with kro",
             "date": "2026-01-25",
             "location": "Virtual / Online",
             "type": "Session",
             "description": "An overview of how kro enables higher-level abstractions in Kubernetes, helping teams group resources, reduce YAML complexity, and standardize application delivery without sacrificing flexibility.",
+            "slides": "https://docs.google.com/presentation/d/1H9abbC6n-p1zlLJVk-KpkWHeQLNGQwH9QpM-ce7IZA0/",
             "info": "https://ocgroups.dev/cncf/group/bhubaneswar/event/t9r6wzn",
             "recording": "https://www.youtube.com/watch?v=Bk3_BIoa9kM&t=5966s",
             "audience": 250
         },
         {
-            "id": 8,
+            "id": 10,
             "event": "Cloudtoberfest 2025",
             "title": "Cross-Cluster Traffic Made Easy: GKE + Istio in Action",
             "date": "2025-10-25",
@@ -508,8 +538,20 @@
             "audience": 75
         },
         {
-            "id": 9,
-            "event": "Cloud Community Days Mangalore 2025",
+            "id": 11,
+            "event": "GDG On Campus - MREM",
+            "title": "From Code to Cloud: A Beginner's Guide to DevOps",
+            "date": "2025-09-30",
+            "location": "Virtual / Online",
+            "type": "Session",
+            "description": "A beginner-friendly DevOps webinar covering the journey from code to cloud with Git and GitHub, Docker, Jenkins-based CI/CD, Kubernetes and Google Cloud.",
+            "slides": "https://docs.google.com/presentation/d/1qOqozJjjWDeBVhaDboZUU3ZV5c4jSh6AAOkaS2DYblA/",
+            "recording": "https://www.youtube.com/live/PPDXCg9LPaY",
+            "audience": 1700
+        },
+        {
+            "id": 12,
+            "event": "Google Cloud Community Days Mangalore 2025",
             "title": "Unifying Kubernetes: Live Multi-Cloud Migration to GKE with Istio",
             "date": "2025-07-19",
             "location": "Mangalore, India",
@@ -517,11 +559,11 @@
             "description": "A comprehensive session on leveraging Istio for cross-cluster networking across EKS and GKE Azure Kubernetes clusters, including a live migration demonstration.",
             "slides": "https://docs.google.com/presentation/d/1hMRxmTy6KmDNvFPvYx8AmWjXJTw6cUToGg7G6WblOrk/",
             "info": "https://gdg.community.dev/events/details/google-gdg-cloud-mangalore-presents-google-cloud-community-days-2025-mangalore/",
-            "audience": 750
+            "audience": 700
         },
         {
-            "id": 10,
-            "event": "Cloud Community Days Chennai 2025",
+            "id": 13,
+            "event": "Google Cloud Community Days Chennai 2025",
             "title": "Unifying Kubernetes: Live Multi-Cloud Migration to GKE with Istio",
             "date": "2025-07-12",
             "location": "Chennai, India",
@@ -532,7 +574,7 @@
             "audience": 300
         },
         {
-            "id": 11,
+            "id": 14,
             "event": "Kubernetes Community Days Bengaluru 2025",
             "title": "Setting up Hybrid Workloads with Istio on Kubernetes",
             "date": "2025-06-07",
@@ -542,10 +584,10 @@
             "slides": "https://docs.google.com/presentation/d/15uxEVLLu_PwihvJcVyTXl2M2JBNJHgsZ/edit?usp=sharing&ouid=109155821986244082307&rtpof=true&sd=true",
             "info": "https://www.linkedin.com/posts/sayed-imran_kubernetes-kcdblr-kcd2025-activity-7338085677298851842-W9UY",
             "recording": "https://youtu.be/08sw2w-RL2o?si=Au1nKz5I1KPQ9kvu",
-            "audience": 300
+            "audience": 600
         },
         {
-            "id": 12,
+            "id": 15,
             "event": "K8SUG India Meetup #3",
             "title": "Navigating the Clouds: Multi-Cluster Networking with Istio Across Multi-Cloud",
             "date": "2025-04-26",
@@ -554,10 +596,10 @@
             "description": "A detailed session on implementing multi-cluster networking with Istio across AWS and GCP Kubernetes clusters, showcasing practical examples and deployment strategies.",
             "slides": "https://www.canva.com/design/DAGlnEkRWiM/E1SUKO2_KWJ0ZqVGoPCMkQ/view",
             "info": "https://www.linkedin.com/posts/sayed-imran_kubernetes-istio-cloudnative-activity-7322462085567651841-vU0i",
-            "audience": 300
+            "audience": 200
         },
         {
-            "id": 13,
+            "id": 16,
             "event": "GDG On Campus - NIST University",
             "title": "Build with AI: Gemini Workshop",
             "date": "2025-03-29",
@@ -566,10 +608,10 @@
             "description": "Hands-on workshop on building AI applications with Google Cloud's Gemini, focusing on practical implementations and use cases.",
             "slides": "https://www.canva.com/design/DAGi_AOmAQ8/KBw6DxH96KW81p7xV6vfpQ/view",
             "info": "https://www.linkedin.com/posts/gdgnist_buildwithai-geminiworkshop-googledevelopers-activity-7311339078422011904-dcpv",
-            "audience": 400
+            "audience": 250
         },
         {
-            "id": 14,
+            "id": 17,
             "event": "K8SUG India Meetup #1",
             "title": "Leveraging Istio to connect External VM to Kubernetes",
             "date": "2025-02-15",
@@ -578,6 +620,7 @@
             "description": "A session on integrating external virtual machines with Kubernetes clusters using Istio, enhancing service discovery and security.",
             "slides": "https://www.canva.com/design/DAGeuAUNAcE/l9ZUMxdVTH3N7OQPzsOJmw/view",
             "info": "https://www.linkedin.com/posts/sayed-imran_kubestronaut-kubernetes-istio-activity-7296915438997839872-1CuM",
+            "recording": "https://drive.google.com/file/d/1G6cGw9NJDGqa7LebMte7Ze-y96jRC1WK/view?usp=sharing",
             "audience": 200
         }
     ],
