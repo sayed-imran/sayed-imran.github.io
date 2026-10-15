@@ -24,9 +24,9 @@ Passionate DevOps Engineer with expertise in cloud technologies, container orche
 | 3 | Aug 22 | Cloud Native Summit Kerala 2026 | AI Agents Burning Your Budget? Time to Hire a Manager | Session | Kochi, Kerala, India | ~600 | [Info](https://www.linkedin.com/posts/sayed-imran_cnskerala-cloudnative-kubernetes-ugcPost-7498306430161059840-0DHo/) · [Slides](https://docs.google.com/presentation/d/1k418sRHQKTcLzCRsmNVZVIu6ll9BK514/) |
 | 4 | Aug 10 | Kubesimplify | Service Mesh 101 with Istio: Complete Hands-On Workshop | Workshop | Virtual / Online | ~1700 | [Info](https://www.youtube.com/watch?v=FwXF-ICECLc) · [Slides](https://docs.google.com/presentation/d/1QJeqXJPy-OsaMl7cMf9hUovCTyypsSmoWzV_ETENfWA/) · [Recording](https://www.youtube.com/watch?v=FwXF-ICECLc) |
 | 5 | May 23 | DeployFest 2026 | Technical Mentorship: Cloud Architecture & GenAI on GCP | Mentorship | Bengaluru, India | ~150 | [Info](https://www.linkedin.com/posts/sayed-imran_deployfest2026-mentorship-hackathon-ugcPost-7469633998298963969-r4lZ/) |
-| 6 | Apr 18 | Kubernetes Community Days Kochi 2026 | Application-Centric Kubernetes Platforms with kro and ArgoCD | Session | Kochi, Kerala, India | ~400 | [Info](https://community.cncf.io/events/details/cncf-kcd-kochi-presents-kcd-kochi-2026/) · [Slides](https://docs.google.com/presentation/d/13LZrk8g4kFrNIlRXsvbSsLd--Q_gAz6WCzcrnamkrjY/) · [Recording](https://youtu.be/DlcYaXsoQjA?si=TX0OQtB3WHBeqmVL) |
+| 6 | Apr 18 | Kubernetes Community Days Kochi 2026 | Application-Centric Kubernetes Platforms with kro and ArgoCD | Session | Kochi, Kerala, India | ~400 | [Info](https://kcd.cncgkochi.in/) · [Slides](https://docs.google.com/presentation/d/13LZrk8g4kFrNIlRXsvbSsLd--Q_gAz6WCzcrnamkrjY/) · [Recording](https://youtu.be/DlcYaXsoQjA?si=TX0OQtB3WHBeqmVL) |
 | 7 | Apr 04 | Open Source Weekend Ahmedabad 2026 | Service Mesh Patterns for Multi-Cluster Kubernetes Environments | Workshop | Ahmedabad, Gujarat, India | ~250 | [Info](https://www.linkedin.com/posts/osd2026-sayedimran-opensource-ugcPost-7445180572110462976-OLof/) |
-| 8 | Feb 21 | Kubernetes Community Days New Delhi 2026 | Real-World Multi Cluster Networking Patterns with Istio | Workshop | New Delhi, India | ~400 | [Info](https://kcddelhi.com/) · [Slides](https://docs.google.com/presentation/d/17fCHn-ryORMQxdDakD-RLwrVNDfvhS-3/) |
+| 8 | Feb 21 | Kubernetes Community Days New Delhi 2026 | Real-World Multi Cluster Networking Patterns with Istio | Workshop | New Delhi, India | ~400 | [Info](https://www.linkedin.com/posts/sayed-imran_kcddelhi-istio-servicemesh-ugcPost-7431962817794056192-atJe/) · [Slides](https://docs.google.com/presentation/d/17fCHn-ryORMQxdDakD-RLwrVNDfvhS-3/) |
 | 9 | Jan 25 | Cloud Native Bhubaneswar Meetup #4 | Reducing Kubernetes YAML Sprawl with kro | Session | Virtual / Online | ~250 | [Info](https://ocgroups.dev/cncf/group/bhubaneswar/event/t9r6wzn) · [Slides](https://docs.google.com/presentation/d/1H9abbC6n-p1zlLJVk-KpkWHeQLNGQwH9QpM-ce7IZA0/) · [Recording](https://www.youtube.com/watch?v=Bk3_BIoa9kM&t=5966s) |
 
 ### 2025
@@ -124,7 +124,7 @@ Passionate DevOps Engineer with expertise in cloud technologies, container orche
 - **Location:** Kochi, Kerala, India
 - **Type:** Session
 - **Audience:** ~400
-- **Info:** https://community.cncf.io/events/details/cncf-kcd-kochi-presents-kcd-kochi-2026/
+- **Info:** https://kcd.cncgkochi.in/
 - **Slides:** https://docs.google.com/presentation/d/13LZrk8g4kFrNIlRXsvbSsLd--Q_gAz6WCzcrnamkrjY/
 - **Recording:** https://youtu.be/DlcYaXsoQjA?si=TX0OQtB3WHBeqmVL
 </details>
@@ -152,7 +152,7 @@ Passionate DevOps Engineer with expertise in cloud technologies, container orche
 - **Location:** New Delhi, India
 - **Type:** Workshop
 - **Audience:** ~400
-- **Info:** https://kcddelhi.com/
+- **Info:** https://www.linkedin.com/posts/sayed-imran_kcddelhi-istio-servicemesh-ugcPost-7431962817794056192-atJe/
 - **Slides:** https://docs.google.com/presentation/d/17fCHn-ryORMQxdDakD-RLwrVNDfvhS-3/
 </details>
 

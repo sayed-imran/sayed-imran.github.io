@@ -486,7 +486,7 @@
             "type": "Session",
             "description": "Demonstrated building scalable internal developer platforms (IDP) by combining kro for declarative, reusable Kubernetes application resource abstractions and ArgoCD for GitOps-driven continuous delivery.",
             "slides": "https://docs.google.com/presentation/d/13LZrk8g4kFrNIlRXsvbSsLd--Q_gAz6WCzcrnamkrjY/",
-            "info": "https://community.cncf.io/events/details/cncf-kcd-kochi-presents-kcd-kochi-2026/",
+            "info": "https://kcd.cncgkochi.in/",
             "recording": "https://youtu.be/DlcYaXsoQjA?si=TX0OQtB3WHBeqmVL",
             "audience": 400
         },
@@ -510,7 +510,7 @@
             "type": "Workshop",
             "description": "In-depth session covering production-grade multi-cluster networking architectures, secure cross-cluster service communication, traffic routing policies, and disaster recovery strategies using Istio service mesh.",
             "slides": "https://docs.google.com/presentation/d/17fCHn-ryORMQxdDakD-RLwrVNDfvhS-3/",
-            "info": "https://kcddelhi.com/",
+            "info": "https://www.linkedin.com/posts/sayed-imran_kcddelhi-istio-servicemesh-ugcPost-7431962817794056192-atJe/",
             "audience": 400
         },
         {
