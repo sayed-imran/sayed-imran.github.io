@@ -451,6 +451,7 @@
             "description": "Discover how to leverage Kubernetes' built-in self-healing capabilities to control costs when building with AI agents. Learn how to stop agents from burning budgets by properly utilizing control loops and reconciliation, instead of bypassing them with complex custom automations.",
             "slides": "https://docs.google.com/presentation/d/1k418sRHQKTcLzCRsmNVZVIu6ll9BK514/",
             "info": "https://www.linkedin.com/posts/sayed-imran_cnskerala-cloudnative-kubernetes-ugcPost-7498306430161059840-0DHo/",
+            "recording": "https://youtu.be/uT5Z22AxvEU?si=-GtusmCjKqevtSAO",
             "audience": 600
         },
         {
