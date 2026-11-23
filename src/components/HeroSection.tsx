@@ -12,6 +12,7 @@ interface HeroSectionProps {
         bio: string;
         location: string;
         avatar?: string;
+        linkedin: string;
     };
 }
 
@@ -38,7 +39,13 @@ export default function HeroSection({ data }: HeroSectionProps) {
                         transition={{ delay: 0.3, type: "spring", stiffness: 200 }}
                         className="mx-auto w-52 h-52 md:w-56 md:h-56 relative"
                     >
-                        <div className="w-full h-full rounded-full bg-gradient-to-r from-cyan-500 to-blue-600 p-1 shadow-xl shadow-cyan-500/20">
+                        <a
+                            href={data.linkedin}
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            aria-label={`View ${data.name} on LinkedIn`}
+                            className="block w-full h-full rounded-full bg-gradient-to-r from-cyan-500 to-blue-600 p-1 shadow-xl shadow-cyan-500/20 transition-transform duration-200 hover:scale-105"
+                        >
                             {data.avatar ? (
                                 <div className="w-full h-full rounded-full overflow-hidden relative">
                                     <Image
@@ -55,7 +62,7 @@ export default function HeroSection({ data }: HeroSectionProps) {
                                     {data.name.split(' ').map(n => n[0]).join('')}
                                 </div>
                             )}
-                        </div>
+                        </a>
                     </motion.div>
 
                     {/* Name and Title */}

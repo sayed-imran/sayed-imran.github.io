@@ -74,9 +74,15 @@ export default function CommunityDaysShowcase({ heading, tagline, logo, eventPre
                                     transition={{ delay: 0.2, type: 'spring', stiffness: 200 }}
                                     className="w-28 h-28 md:w-32 md:h-32 rounded-full bg-gradient-to-r from-cyan-500 to-blue-600 p-1 shadow-xl shadow-cyan-500/20"
                                 >
-                                    <div className="w-full h-full rounded-full overflow-hidden relative">
+                                    <a
+                                        href={personal.linkedin}
+                                        target="_blank"
+                                        rel="noopener noreferrer"
+                                        aria-label={`View ${personal.name} on LinkedIn`}
+                                        className="block w-full h-full rounded-full overflow-hidden relative transition-transform duration-200 hover:scale-105"
+                                    >
                                         <Image src={personal.avatar} alt={personal.name} fill sizes="128px" className="object-cover" priority />
-                                    </div>
+                                    </a>
                                 </motion.div>
                                 <motion.div
                                     initial={{ scale: 0 }}

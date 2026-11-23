@@ -5,7 +5,7 @@
 
 📍 Bengaluru, India
 
-Passionate DevOps Engineer with expertise in cloud technologies, container orchestration, and CI/CD pipelines. I help organizations scale their infrastructure and streamline their deployment processes.
+Passionate about Cloud, SRE, Platform Engineering, AI, and Open Source, with a focus on automating infrastructure, simplifying software delivery, and exploring AI-powered solutions for modern operations. An active contributor to the tech community through open-source initiatives, technical talks, hands-on workshops, and knowledge sharing across the Cloud Native, Google Cloud, AI, and Open Source ecosystems.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sayed--imran-blue?logo=linkedin)](https://linkedin.com/in/sayed-imran)
 [![GitHub](https://img.shields.io/badge/GitHub-sayed--imran-181717?logo=github)](https://github.com/sayed-imran)
@@ -19,15 +19,18 @@ Passionate DevOps Engineer with expertise in cloud technologies, container orche
 
 | # | Date | Event | Talk Title | Type | Location | Audience | Links |
 |---|------|-------|------------|------|----------|----------|-------|
-| 1 | Oct 08 | Open Source India 2026 | The Open Source Jarvis: Build Your Own Private Assistant | Workshop | Bengaluru, India | ~25 | [Info](https://www.linkedin.com/posts/opensourceindia-osi2026-localai-share-7506596810862448640-Z2n4/) · [Slides](https://docs.google.com/presentation/d/1-S1g7nzEnVNZ-INgTv3WLlw8e5ooaWSyyHrP5Lutrfo/edit?usp=sharing) |
-| 2 | Sep 11 | AppForge - Mozilla Firefox Club VIT Vellore | The Modern Software Delivery | Session | VIT Vellore, Tamil Nadu, India | ~200 | [Info](https://www.linkedin.com/posts/sayed-imran_appforge-vitvellore-mozillafirefoxclub-share-7507476069881495552-ukE3) · [Slides](https://docs.google.com/presentation/d/1ixj9UAwG5tNZoQsrfMwfFIlc3C2X0uToT3uu5zAwgwY/edit?usp=sharing) |
-| 3 | Aug 22 | Cloud Native Summit Kerala 2026 | AI Agents Burning Your Budget? Time to Hire a Manager | Session | Kochi, Kerala, India | ~600 | [Info](https://www.linkedin.com/posts/sayed-imran_cnskerala-cloudnative-kubernetes-ugcPost-7498306430161059840-0DHo/) · [Slides](https://docs.google.com/presentation/d/1k418sRHQKTcLzCRsmNVZVIu6ll9BK514/) · [Recording](https://youtu.be/uT5Z22AxvEU?si=-GtusmCjKqevtSAO) |
-| 4 | Aug 10 | Kubesimplify | Service Mesh 101 with Istio: Complete Hands-On Workshop | Workshop | Virtual / Online | ~1700 | [Info](https://www.youtube.com/watch?v=FwXF-ICECLc) · [Slides](https://docs.google.com/presentation/d/1QJeqXJPy-OsaMl7cMf9hUovCTyypsSmoWzV_ETENfWA/) · [Recording](https://www.youtube.com/watch?v=FwXF-ICECLc) |
-| 5 | May 23 | DeployFest 2026 | Technical Mentorship: Cloud Architecture & GenAI on GCP | Mentorship | Bengaluru, India | ~150 | [Info](https://www.linkedin.com/posts/sayed-imran_deployfest2026-mentorship-hackathon-ugcPost-7469633998298963969-r4lZ/) |
-| 6 | Apr 18 | Kubernetes Community Days Kochi 2026 | Application-Centric Kubernetes Platforms with kro and ArgoCD | Session | Kochi, Kerala, India | ~400 | [Info](https://kcd.cncgkochi.in/) · [Slides](https://docs.google.com/presentation/d/13LZrk8g4kFrNIlRXsvbSsLd--Q_gAz6WCzcrnamkrjY/) · [Recording](https://youtu.be/DlcYaXsoQjA?si=TX0OQtB3WHBeqmVL) |
-| 7 | Apr 04 | Open Source Weekend Ahmedabad 2026 | Service Mesh Patterns for Multi-Cluster Kubernetes Environments | Workshop | Ahmedabad, Gujarat, India | ~250 | [Info](https://www.linkedin.com/posts/osd2026-sayedimran-opensource-ugcPost-7445180572110462976-OLof/) |
-| 8 | Feb 21 | Kubernetes Community Days New Delhi 2026 | Real-World Multi Cluster Networking Patterns with Istio | Workshop | New Delhi, India | ~400 | [Info](https://www.linkedin.com/posts/sayed-imran_kcddelhi-istio-servicemesh-ugcPost-7431962817794056192-atJe/) · [Slides](https://docs.google.com/presentation/d/17fCHn-ryORMQxdDakD-RLwrVNDfvhS-3/) |
-| 9 | Jan 25 | Cloud Native Bhubaneswar Meetup #4 | Reducing Kubernetes YAML Sprawl with kro | Session | Virtual / Online | ~250 | [Info](https://ocgroups.dev/cncf/group/bhubaneswar/event/t9r6wzn) · [Slides](https://docs.google.com/presentation/d/1H9abbC6n-p1zlLJVk-KpkWHeQLNGQwH9QpM-ce7IZA0/) · [Recording](https://www.youtube.com/watch?v=Bk3_BIoa9kM&t=5966s) |
+| 1 | Nov 22 | GenAI & Agentic AI Workshop - IIC TMSL x ML Kolkata | Every Workload Finds Its Runtime | Session | Virtual / Online | ~200 | [Info](https://antiviral.social/events/31) · [Slides](https://docs.google.com/presentation/d/1jnpDQc8IWVxw9ku5jm0ndzxqiRVR349gcp336no9Gbc/edit?usp=sharing) · [Code](https://github.com/sayed-imran/agent-platform-demo) |
+| 2 | Nov 15 | UbuCon India 2026 | Scaling Local AI: Benchmarking vLLM and Building Personal Agents | Workshop | Bengaluru, India | ~70 | [Info](https://events.canonical.com/event/157/contributions/1091/) · [Slides](https://docs.google.com/presentation/d/1ruVfFd4MSAUlMNRhhx6vbbzoaIkFwt_le63WX_UeR_U/edit?usp=sharing) · [Code](https://github.com/sayed-imran/ubucon-india-2026) |
+| 3 | Nov 14 | DevFest Mangaluru 2026 | Hey Gemma, No Internet: Building Voice Agents That Never Phone Home | Workshop | Mangalore, India | ~100 | [Info](https://gdg.community.dev/events/details/google-gdg-cloud-mangalore-presents-devfest-mangaluru-2026/) · [Slides](https://docs.google.com/presentation/d/137su0AbJ6huAkZGAIe70lM3XAcHvvCOgbFE9nJKjT0k/edit?usp=sharing) · [Code](https://github.com/sayed-imran/devfest-mangaluru-2026-voicebot) |
+| 4 | Oct 08 | Open Source India 2026 | The Open Source Jarvis: Build Your Own Private Assistant | Workshop | Bengaluru, India | ~25 | [Info](https://www.linkedin.com/posts/opensourceindia-osi2026-localai-share-7506596810862448640-Z2n4/) · [Slides](https://docs.google.com/presentation/d/1-S1g7nzEnVNZ-INgTv3WLlw8e5ooaWSyyHrP5Lutrfo/edit?usp=sharing) |
+| 5 | Sep 11 | AppForge - Mozilla Firefox Club VIT Vellore | The Modern Software Delivery | Session | VIT Vellore, Tamil Nadu, India | ~200 | [Info](https://www.linkedin.com/posts/sayed-imran_appforge-vitvellore-mozillafirefoxclub-share-7507476069881495552-ukE3) · [Slides](https://docs.google.com/presentation/d/1ixj9UAwG5tNZoQsrfMwfFIlc3C2X0uToT3uu5zAwgwY/edit?usp=sharing) |
+| 6 | Aug 22 | Cloud Native Summit Kerala 2026 | AI Agents Burning Your Budget? Time to Hire a Manager | Session | Kochi, Kerala, India | ~600 | [Info](https://www.linkedin.com/posts/sayed-imran_cnskerala-cloudnative-kubernetes-ugcPost-7498306430161059840-0DHo/) · [Slides](https://docs.google.com/presentation/d/1k418sRHQKTcLzCRsmNVZVIu6ll9BK514/) · [Recording](https://youtu.be/uT5Z22AxvEU?si=-GtusmCjKqevtSAO) |
+| 7 | Aug 10 | Kubesimplify | Service Mesh 101 with Istio: Complete Hands-On Workshop | Workshop | Virtual / Online | ~1700 | [Info](https://www.youtube.com/watch?v=FwXF-ICECLc) · [Slides](https://docs.google.com/presentation/d/1QJeqXJPy-OsaMl7cMf9hUovCTyypsSmoWzV_ETENfWA/) · [Recording](https://www.youtube.com/watch?v=FwXF-ICECLc) |
+| 8 | May 23 | DeployFest 2026 | Technical Mentorship: Cloud Architecture & GenAI on GCP | Mentorship | Bengaluru, India | ~150 | [Info](https://www.linkedin.com/posts/sayed-imran_deployfest2026-mentorship-hackathon-ugcPost-7469633998298963969-r4lZ/) |
+| 9 | Apr 18 | Kubernetes Community Days Kochi 2026 | Application-Centric Kubernetes Platforms with kro and ArgoCD | Session | Kochi, Kerala, India | ~400 | [Info](https://kcd.cncgkochi.in/) · [Slides](https://docs.google.com/presentation/d/13LZrk8g4kFrNIlRXsvbSsLd--Q_gAz6WCzcrnamkrjY/) · [Recording](https://youtu.be/DlcYaXsoQjA?si=TX0OQtB3WHBeqmVL) |
+| 10 | Apr 04 | Open Source Weekend Ahmedabad 2026 | Service Mesh Patterns for Multi-Cluster Kubernetes Environments | Workshop | Ahmedabad, Gujarat, India | ~250 | [Info](https://www.linkedin.com/posts/osd2026-sayedimran-opensource-ugcPost-7445180572110462976-OLof/) |
+| 11 | Feb 21 | Kubernetes Community Days New Delhi 2026 | Real-World Multi Cluster Networking Patterns with Istio | Workshop | New Delhi, India | ~400 | [Info](https://www.linkedin.com/posts/sayed-imran_kcddelhi-istio-servicemesh-ugcPost-7431962817794056192-atJe/) · [Slides](https://docs.google.com/presentation/d/17fCHn-ryORMQxdDakD-RLwrVNDfvhS-3/) |
+| 12 | Jan 25 | Cloud Native Bhubaneswar Meetup #4 | Reducing Kubernetes YAML Sprawl with kro | Session | Virtual / Online | ~250 | [Info](https://ocgroups.dev/cncf/group/bhubaneswar/event/t9r6wzn) · [Slides](https://docs.google.com/presentation/d/1H9abbC6n-p1zlLJVk-KpkWHeQLNGQwH9QpM-ce7IZA0/) · [Recording](https://www.youtube.com/watch?v=Bk3_BIoa9kM&t=5966s) |
 
 ### 2025
 
@@ -43,6 +46,51 @@ Passionate DevOps Engineer with expertise in cloud technologies, container orche
 | 8 | Feb 15 | K8SUG India Meetup #1 | Leveraging Istio to connect External VM to Kubernetes | Session | Bengaluru, India | ~200 | [Info](https://www.linkedin.com/posts/sayed-imran_kubestronaut-kubernetes-istio-activity-7296915438997839872-1CuM) · [Slides](https://www.canva.com/design/DAGeuAUNAcE/l9ZUMxdVTH3N7OQPzsOJmw/view) · [Recording](https://drive.google.com/file/d/1G6cGw9NJDGqa7LebMte7Ze-y96jRC1WK/view?usp=sharing) |
 
 ### Talk Descriptions (Copy-Paste Ready)
+
+<details>
+<summary><b>Every Workload Finds Its Runtime</b> — GenAI & Agentic AI Workshop - IIC TMSL x ML Kolkata</summary>
+
+> A look at where AI agents belong, deploying the same Agent Development Kit agent locally, on Cloud Run and on a managed Agent Runtime to compare who owns sessions, memory, identity, egress and guardrails, including blocking a prompt injection with Model Armor.
+
+- **Event:** GenAI & Agentic AI Workshop - IIC TMSL x ML Kolkata
+- **Date:** November 22, 2026
+- **Location:** Virtual / Online
+- **Type:** Session
+- **Audience:** ~200
+- **Info:** https://antiviral.social/events/31
+- **Slides:** https://docs.google.com/presentation/d/1jnpDQc8IWVxw9ku5jm0ndzxqiRVR349gcp336no9Gbc/edit?usp=sharing
+- **Code:** https://github.com/sayed-imran/agent-platform-demo
+</details>
+
+<details>
+<summary><b>Scaling Local AI: Benchmarking vLLM and Building Personal Agents</b> — UbuCon India 2026</summary>
+
+> Hands-on workshop on serving local LLMs with vLLM on Ubuntu, covering unified memory, PagedAttention and continuous batching, then building a personal voice agent with Gemma 4, Whisper, Kokoro and MCP tools on an NVIDIA DGX Spark.
+
+- **Event:** UbuCon India 2026
+- **Date:** November 15, 2026
+- **Location:** Bengaluru, India
+- **Type:** Workshop
+- **Audience:** ~70
+- **Info:** https://events.canonical.com/event/157/contributions/1091/
+- **Slides:** https://docs.google.com/presentation/d/1ruVfFd4MSAUlMNRhhx6vbbzoaIkFwt_le63WX_UeR_U/edit?usp=sharing
+- **Code:** https://github.com/sayed-imran/ubucon-india-2026
+</details>
+
+<details>
+<summary><b>Hey Gemma, No Internet: Building Voice Agents That Never Phone Home</b> — DevFest Mangaluru 2026</summary>
+
+> Hands-on workshop on building a fully offline voice agent that listens, thinks, acts and speaks, combining Silero VAD, Whisper speech-to-text, Gemma 4 served with vLLM, Kokoro text-to-speech and MCP tool calling, with models served from a single shared Grace Blackwell machine on the room's network.
+
+- **Event:** DevFest Mangaluru 2026
+- **Date:** November 14, 2026
+- **Location:** Mangalore, India
+- **Type:** Workshop
+- **Audience:** ~100
+- **Info:** https://gdg.community.dev/events/details/google-gdg-cloud-mangalore-presents-devfest-mangaluru-2026/
+- **Slides:** https://docs.google.com/presentation/d/137su0AbJ6huAkZGAIe70lM3XAcHvvCOgbFE9nJKjT0k/edit?usp=sharing
+- **Code:** https://github.com/sayed-imran/devfest-mangaluru-2026-voicebot
+</details>
 
 <details>
 <summary><b>The Open Source Jarvis: Build Your Own Private Assistant</b> — Open Source India 2026</summary>

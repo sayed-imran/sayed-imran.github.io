@@ -4,6 +4,7 @@ import { motion } from 'framer-motion';
 import { useState, useEffect } from 'react';
 import { Menu, X, Github, Linkedin, Mail, FileText } from 'lucide-react';
 import Image from 'next/image';
+import portfolioData from '@/data/portfolio.json';
 
 export default function Navigation() {
     const [isOpen, setIsOpen] = useState(false);
@@ -38,9 +39,13 @@ export default function Navigation() {
             <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
                 <div className="flex justify-between items-center py-2">
                     {/* Logo */}
-                    <motion.div
+                    <motion.a
+                        href={portfolioData.personal.gdeProfile}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        aria-label="View Google Developer Expert profile"
                         whileHover={{ scale: 1.05 }}
-                        className="shrink-0"
+                        className="block shrink-0"
                     >
                         <Image
                             src="/logos/gde-lockup.svg"
@@ -50,7 +55,7 @@ export default function Navigation() {
                             className="w-[min(calc(100vw-4.5rem),280px)] md:w-[345px] h-auto"
                             priority
                         />
-                    </motion.div>
+                    </motion.a>
 
                     {/* Desktop Navigation */}
                     <div className="hidden xl:flex space-x-8">

@@ -1,7 +1,7 @@
 'use client';
 
 import { motion } from 'framer-motion';
-import { Mic, Calendar, MapPin, Users, ExternalLink, Info, Play } from 'lucide-react';
+import { Mic, Calendar, MapPin, Users, ExternalLink, Info, Play, Github } from 'lucide-react';
 
 interface SpeakingEvent {
     id: number;
@@ -14,6 +14,7 @@ interface SpeakingEvent {
     slides?: string;
     info?: string;
     recording?: string;
+    repo?: string;
     audience: number;
 }
 
@@ -141,6 +142,20 @@ export default function SpeakingSection({ events }: SpeakingSectionProps) {
                                                 >
                                                     <ExternalLink className="w-4 h-4 mr-2" />
                                                     View Slides
+                                                </motion.a>
+                                            )}
+
+                                            {event.repo && (
+                                                <motion.a
+                                                    href={event.repo}
+                                                    target="_blank"
+                                                    rel="noopener noreferrer"
+                                                    whileHover={{ scale: 1.05 }}
+                                                    whileTap={{ scale: 0.95 }}
+                                                    className="inline-flex items-center px-4 py-2 text-sm bg-slate-700 border border-slate-600 text-white rounded-lg hover:bg-slate-600 hover:border-cyan-500 transition-all duration-200"
+                                                >
+                                                    <Github className="w-4 h-4 mr-2" />
+                                                    View Code
                                                 </motion.a>
                                             )}
 

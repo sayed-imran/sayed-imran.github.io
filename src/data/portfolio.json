@@ -3,10 +3,11 @@
         "name": "Sayed Imran",
         "title": "Google Developer Expert, Google Cloud Ambassador, Golden Kubestronaut, SRE @ 66degrees",
         "subtitle": "Cloud & Kubernetes Specialist",
-        "bio": "Passionate DevOps Engineer with expertise in cloud technologies, container orchestration, and CI/CD pipelines. I help organizations scale their infrastructure and streamline their deployment processes.",
+        "bio": "Passionate about Cloud, SRE, Platform Engineering, AI, and Open Source, with a focus on automating infrastructure, simplifying software delivery, and exploring AI-powered solutions for modern operations. An active contributor to the tech community through open-source initiatives, technical talks, hands-on workshops, and knowledge sharing across the Cloud Native, Google Cloud, AI, and Open Source ecosystems.",
         "linkedin": "https://linkedin.com/in/sayed-imran",
         "github": "https://github.com/sayed-imran",
         "medium": "https://medium.com/@sayed-imran",
+        "gdeProfile": "https://me.developers.google.com/u/sayed-imran",
         "avatar": "/profile.jpg",
         "location": "Bengaluru, India"
     },
@@ -426,6 +427,45 @@
         }
     ],
     "speaking": [
+        {
+            "id": 20,
+            "event": "GenAI & Agentic AI Workshop - IIC TMSL x ML Kolkata",
+            "title": "Every Workload Finds Its Runtime",
+            "date": "2026-11-22",
+            "location": "Virtual / Online",
+            "type": "Session",
+            "description": "A look at where AI agents belong, deploying the same Agent Development Kit agent locally, on Cloud Run and on a managed Agent Runtime to compare who owns sessions, memory, identity, egress and guardrails, including blocking a prompt injection with Model Armor.",
+            "slides": "https://docs.google.com/presentation/d/1jnpDQc8IWVxw9ku5jm0ndzxqiRVR349gcp336no9Gbc/edit?usp=sharing",
+            "info": "https://antiviral.social/events/31",
+            "repo": "https://github.com/sayed-imran/agent-platform-demo",
+            "audience": 200
+        },
+        {
+            "id": 19,
+            "event": "UbuCon India 2026",
+            "title": "Scaling Local AI: Benchmarking vLLM and Building Personal Agents",
+            "date": "2026-11-15",
+            "location": "Bengaluru, India",
+            "type": "Workshop",
+            "description": "Hands-on workshop on serving local LLMs with vLLM on Ubuntu, covering unified memory, PagedAttention and continuous batching, then building a personal voice agent with Gemma 4, Whisper, Kokoro and MCP tools on an NVIDIA DGX Spark.",
+            "slides": "https://docs.google.com/presentation/d/1ruVfFd4MSAUlMNRhhx6vbbzoaIkFwt_le63WX_UeR_U/edit?usp=sharing",
+            "info": "https://events.canonical.com/event/157/contributions/1091/",
+            "repo": "https://github.com/sayed-imran/ubucon-india-2026",
+            "audience": 70
+        },
+        {
+            "id": 18,
+            "event": "DevFest Mangaluru 2026",
+            "title": "Hey Gemma, No Internet: Building Voice Agents That Never Phone Home",
+            "date": "2026-11-14",
+            "location": "Mangalore, India",
+            "type": "Workshop",
+            "description": "Hands-on workshop on building a fully offline voice agent that listens, thinks, acts and speaks, combining Silero VAD, Whisper speech-to-text, Gemma 4 served with vLLM, Kokoro text-to-speech and MCP tool calling, with models served from a single shared Grace Blackwell machine on the room's network.",
+            "slides": "https://docs.google.com/presentation/d/137su0AbJ6huAkZGAIe70lM3XAcHvvCOgbFE9nJKjT0k/edit?usp=sharing",
+            "info": "https://gdg.community.dev/events/details/google-gdg-cloud-mangalore-presents-devfest-mangaluru-2026/",
+            "repo": "https://github.com/sayed-imran/devfest-mangaluru-2026-voicebot",
+            "audience": 100
+        },
         {
             "id": 1,
             "event": "Open Source India 2026",
