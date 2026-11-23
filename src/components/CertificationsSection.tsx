@@ -19,9 +19,13 @@ interface CertificationsSectionProps {
     certifications: Certification[];
 }
 
+const DEFAULT_VISIBLE_CERTIFICATIONS = 6;
+
 export default function CertificationsSection({ certifications }: CertificationsSectionProps) {
     const [showAll, setShowAll] = useState(false);
-    const displayedCertifications = showAll ? certifications : certifications.slice(0, 4);
+    const displayedCertifications = showAll
+        ? certifications
+        : certifications.slice(0, DEFAULT_VISIBLE_CERTIFICATIONS);
 
     return (
         <section id="certifications" className="py-20 relative">
@@ -119,7 +123,7 @@ export default function CertificationsSection({ certifications }: Certifications
                 </div>
 
                 {/* Show All/Less Button */}
-                {certifications.length > 4 && (
+                {certifications.length > DEFAULT_VISIBLE_CERTIFICATIONS && (
                     <motion.div
                         initial={{ opacity: 0, y: 20 }}
                         whileInView={{ opacity: 1, y: 0 }}

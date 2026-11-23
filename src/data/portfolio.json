@@ -44,6 +44,15 @@
             "verificationUrl": "https://www.credly.com/badges/8736d13e-96f8-4261-92e8-47c7193aebaf"
         },
         {
+            "id": 31,
+            "name": "Gemini Enterprise Forward Deployed Engineer Bootcamp",
+            "issuer": "Google Cloud",
+            "date": "2026-11-06",
+            "credentialId": "c553616d-0177-4626-9d16-7b0fec953072",
+            "logo": "https://images.credly.com/images/6cd4257b-08f6-4d82-9f62-150796775d9e/blob",
+            "verificationUrl": "https://www.credly.com/badges/c553616d-0177-4626-9d16-7b0fec953072"
+        },
+        {
             "id": 3,
             "name": "LFCS: Linux Foundation Certified Systems Administrator",
             "issuer": "The Linux Foundation",

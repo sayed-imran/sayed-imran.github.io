@@ -360,10 +360,11 @@ Passionate about Cloud, SRE, Platform Engineering, AI, and Open Source, with a f
 | KCNA: Kubernetes and Cloud Native Associate | 2025 | `22e0a74b-ef82-4729-abaf-98500ad9de8d` | [Credly](https://www.credly.com/badges/22e0a74b-ef82-4729-abaf-98500ad9de8d) |
 | KCSA: Kubernetes and Cloud Native Security Associate | 2025 | `f911dee8-a386-4877-97ae-3b08f5b590fd` | [Credly](https://www.credly.com/badges/f911dee8-a386-4877-97ae-3b08f5b590fd) |
 
-### Google Cloud (6)
+### Google Cloud (8)
 
 | Certification | Year | Credential ID | Verify |
 |---------------|------|---------------|--------|
+| Gemini Enterprise Forward Deployed Engineer Bootcamp | 2026 | `c553616d-0177-4626-9d16-7b0fec953072` | [Credly](https://www.credly.com/badges/c553616d-0177-4626-9d16-7b0fec953072) |
 | Professional Cloud Developer | 2026 | `885a97d0-69dc-4dd1-8bf6-b4144f94d631` | [Credly](https://www.credly.com/badges/885a97d0-69dc-4dd1-8bf6-b4144f94d631) |
 | Professional Cloud DevOps Engineer | 2025 | `323a0138-5a71-4f68-962c-e7588e24212e` | [Credly](https://www.credly.com/badges/323a0138-5a71-4f68-962c-e7588e24212e) |
 | Professional Cloud Network Engineer | 2025 | `7ff6e6e6-fe52-4371-9862-e8737d0cf5e0` | [Credly](https://www.credly.com/badges/7ff6e6e6-fe52-4371-9862-e8737d0cf5e0) |
