@@ -45,11 +45,13 @@ export default function Home() {
                 About Me
               </h2>
               <div className="max-w-4xl mx-auto">
-                <p className="text-xl text-gray-300 leading-relaxed mb-8">
-                  As a seasoned DevOps Engineer with deep expertise in cloud technologies and
-                  container orchestration, I help organizations transform their infrastructure
-                  and accelerate their digital transformation journey.
-                </p>
+                <div className="space-y-6 mb-8">
+                  {portfolioData.personal.about.map((paragraph) => (
+                    <p key={paragraph} className="text-xl text-gray-300 leading-relaxed">
+                      {paragraph}
+                    </p>
+                  ))}
+                </div>
                 <div className="grid grid-cols-2 md:grid-cols-4 gap-8 mt-12">
                   {Object.entries(portfolioData.skills).map(([category, skills]) => (
                     <div key={category} className="text-center">

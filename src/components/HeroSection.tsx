@@ -82,8 +82,12 @@ export default function HeroSection({ data }: HeroSectionProps) {
                             transition={{ delay: 0.7 }}
                             className="space-y-2"
                         >
-                            <h2 className="text-2xl md:text-3xl font-semibold text-cyan-400 text-balance">
-                                {data.title}
+                            <h2 className="text-xl min-[360px]:text-2xl md:text-3xl font-semibold text-cyan-400">
+                                {data.title.split(', ').map((recognition) => (
+                                    <span key={recognition} className="block">
+                                        {recognition}
+                                    </span>
+                                ))}
                             </h2>
                             <h3 className="text-lg md:text-xl text-gray-300">
                                 {data.subtitle}

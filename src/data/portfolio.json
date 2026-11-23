@@ -3,7 +3,11 @@
         "name": "Sayed Imran",
         "title": "Google Developer Expert, Google Cloud Ambassador, Golden Kubestronaut, SRE @ 66degrees",
         "subtitle": "Cloud & Kubernetes Specialist",
-        "bio": "Passionate about Cloud, SRE, Platform Engineering, AI, and Open Source, with a focus on automating infrastructure, simplifying software delivery, and exploring AI-powered solutions for modern operations. An active contributor to the tech community through open-source initiatives, technical talks, hands-on workshops, and knowledge sharing across the Cloud Native, Google Cloud, AI, and Open Source ecosystems.",
+        "bio": "Automating infrastructure, simplifying software delivery, and sharing what I learn across the Cloud, AI, and Open Source communities.",
+        "about": [
+            "Passionate about Cloud, SRE, Platform Engineering, AI, and Open Source, with a focus on automating infrastructure, simplifying software delivery, and exploring AI-powered solutions for modern operations.",
+            "An active contributor to the tech community through open-source initiatives, technical talks, hands-on workshops, and knowledge sharing across the Cloud Native, Google Cloud, AI, and Open Source ecosystems."
+        ],
         "linkedin": "https://linkedin.com/in/sayed-imran",
         "github": "https://github.com/sayed-imran",
         "medium": "https://medium.com/@sayed-imran",
