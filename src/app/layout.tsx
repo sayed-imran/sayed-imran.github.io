@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Sayed Imran | Golden Kubestronaut, Site Reliability Engineer @ 66degrees",
+  title: "Sayed Imran | Google Developer Expert, Google Cloud Ambassador, Golden Kubestronaut, Site Reliability Engineer @ 66degrees",
   description: "Cloud & Kubernetes Specialist with expertise in DevOps & SRE, container orchestration, and CI/CD pipelines",
   icons: {
     icon: [

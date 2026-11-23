@@ -29,14 +29,14 @@ export default function HeroSection({ data }: HeroSectionProps) {
                     initial={{ opacity: 0, y: 30 }}
                     animate={{ opacity: 1, y: 0 }}
                     transition={{ duration: 0.8 }}
-                    className="space-y-8"
+                    className="space-y-6"
                 >
                     {/* Profile Image */}
                     <motion.div
                         initial={{ scale: 0 }}
                         animate={{ scale: 1 }}
                         transition={{ delay: 0.3, type: "spring", stiffness: 200 }}
-                        className="mx-auto w-40 h-40 relative"
+                        className="mx-auto w-52 h-52 md:w-56 md:h-56 relative"
                     >
                         <div className="w-full h-full rounded-full bg-gradient-to-r from-cyan-500 to-blue-600 p-1 shadow-xl shadow-cyan-500/20">
                             {data.avatar ? (
@@ -45,7 +45,7 @@ export default function HeroSection({ data }: HeroSectionProps) {
                                         src={data.avatar}
                                         alt={data.name}
                                         fill
-                                        sizes="160px"
+                                        sizes="(min-width: 768px) 224px, 208px"
                                         className="object-cover"
                                         priority
                                     />
@@ -75,7 +75,7 @@ export default function HeroSection({ data }: HeroSectionProps) {
                             transition={{ delay: 0.7 }}
                             className="space-y-2"
                         >
-                            <h2 className="text-2xl md:text-3xl font-semibold text-cyan-400">
+                            <h2 className="text-2xl md:text-3xl font-semibold text-cyan-400 text-balance">
                                 {data.title}
                             </h2>
                             <h3 className="text-lg md:text-xl text-gray-300">

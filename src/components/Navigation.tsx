@@ -3,6 +3,7 @@
 import { motion } from 'framer-motion';
 import { useState, useEffect } from 'react';
 import { Menu, X, Github, Linkedin, Mail, FileText } from 'lucide-react';
+import Image from 'next/image';
 
 export default function Navigation() {
     const [isOpen, setIsOpen] = useState(false);
@@ -29,24 +30,30 @@ export default function Navigation() {
         <motion.nav
             initial={{ y: -100 }}
             animate={{ y: 0 }}
-            className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 ${scrolled
+            className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 ${scrolled || isOpen
                 ? 'bg-slate-900/90 backdrop-blur-md border-b border-cyan-500/20'
                 : 'bg-transparent'
                 }`}
         >
             <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-                <div className="flex justify-between items-center py-4">
+                <div className="flex justify-between items-center py-2">
                     {/* Logo */}
                     <motion.div
                         whileHover={{ scale: 1.05 }}
-                        className="text-2xl font-bold"
+                        className="shrink-0"
                     >
-                        <span className="text-cyan-400">Dev</span>
-                        <span className="text-white">Ops</span>
+                        <Image
+                            src="/logos/gde-lockup.svg"
+                            alt="Google Developer Experts"
+                            width={1836}
+                            height={244}
+                            className="w-[min(calc(100vw-4.5rem),280px)] md:w-[345px] h-auto"
+                            priority
+                        />
                     </motion.div>
 
                     {/* Desktop Navigation */}
-                    <div className="hidden md:flex space-x-8">
+                    <div className="hidden xl:flex space-x-8">
                         {navItems.map((item) => (
                             <motion.a
                                 key={item.name}
@@ -60,7 +67,7 @@ export default function Navigation() {
                     </div>
 
                     {/* Social Links */}
-                    <div className="hidden md:flex items-center space-x-4">
+                    <div className="hidden xl:flex items-center space-x-4">
                         <motion.a
                             href="https://github.com/sayed-imran"
                             target="_blank"
@@ -92,7 +99,7 @@ export default function Navigation() {
                     </div>
 
                     {/* Mobile menu button */}
-                    <div className="md:hidden">
+                    <div className="xl:hidden">
                         <button
                             onClick={() => setIsOpen(!isOpen)}
                             className="text-gray-300 hover:text-cyan-400 transition-colors"
@@ -108,7 +115,7 @@ export default function Navigation() {
                         initial={{ opacity: 0, height: 0 }}
                         animate={{ opacity: 1, height: 'auto' }}
                         exit={{ opacity: 0, height: 0 }}
-                        className="md:hidden border-t border-cyan-500/20 py-4"
+                        className="xl:hidden border-t border-cyan-500/20 py-4"
                     >
                         <div className="flex flex-col space-y-4">
                             {navItems.map((item) => (

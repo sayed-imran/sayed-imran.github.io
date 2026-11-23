@@ -1,13 +1,13 @@
 {
     "personal": {
         "name": "Sayed Imran",
-        "title": "Golden Kubestronaut, SRE @ 66degrees",
+        "title": "Google Developer Expert, Google Cloud Ambassador, Golden Kubestronaut, SRE @ 66degrees",
         "subtitle": "Cloud & Kubernetes Specialist",
         "bio": "Passionate DevOps Engineer with expertise in cloud technologies, container orchestration, and CI/CD pipelines. I help organizations scale their infrastructure and streamline their deployment processes.",
         "linkedin": "https://linkedin.com/in/sayed-imran",
         "github": "https://github.com/sayed-imran",
         "medium": "https://medium.com/@sayed-imran",
-        "avatar": "/profile.png",
+        "avatar": "/profile.jpg",
         "location": "Bengaluru, India"
     },
     "certifications": [
@@ -28,6 +28,15 @@
             "credentialId": "147f4590-d40c-477e-b45c-408124498824",
             "logo": "https://images.credly.com/images/cd6c6449-6814-4613-a2d3-13cf4ac5be4f/image.png",
             "verificationUrl": "https://www.credly.com/badges/147f4590-d40c-477e-b45c-408124498824"
+        },
+        {
+            "id": 30,
+            "name": "CKNE: Certified Kubernetes Network Engineer",
+            "issuer": "The Linux Foundation",
+            "date": "2026-11-05",
+            "credentialId": "8736d13e-96f8-4261-92e8-47c7193aebaf",
+            "logo": "https://images.credly.com/images/a82b5f18-fe53-4803-8187-e07a407625c1/blob",
+            "verificationUrl": "https://www.credly.com/badges/8736d13e-96f8-4261-92e8-47c7193aebaf"
         },
         {
             "id": 3,

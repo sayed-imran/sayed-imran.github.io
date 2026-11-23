@@ -1,6 +1,6 @@
 # Sayed Imran
 
-**Golden Kubestronaut, SRE @ 66degrees**
+**Google Developer Expert, Google Cloud Ambassador, Golden Kubestronaut, SRE @ 66degrees**
 *Cloud & Kubernetes Specialist*
 
 📍 Bengaluru, India
@@ -289,12 +289,13 @@ Passionate DevOps Engineer with expertise in cloud technologies, container orche
 
 ## 🏅 Certifications
 
-### The Linux Foundation (15)
+### The Linux Foundation (18)
 
 | Certification | Year | Credential ID | Verify |
 |---------------|------|---------------|--------|
 | Golden Kubestronaut | 2026 | `fc7d3733-7c32-493c-850e-088e8fbbc095` | [Credly](https://www.credly.com/badges/fc7d3733-7c32-493c-850e-088e8fbbc095) |
 | Kubestronaut | 2025 | `147f4590-d40c-477e-b45c-408124498824` | [Credly](https://www.credly.com/badges/147f4590-d40c-477e-b45c-408124498824) |
+| CKNE: Certified Kubernetes Network Engineer | 2026 | `8736d13e-96f8-4261-92e8-47c7193aebaf` | [Credly](https://www.credly.com/badges/8736d13e-96f8-4261-92e8-47c7193aebaf) |
 | LFCS: Linux Foundation Certified Systems Administrator | 2026 | `d1e7176f-7fb7-4329-ad09-7c85fca05e8b` | [Credly](https://www.credly.com/badges/d1e7176f-7fb7-4329-ad09-7c85fca05e8b) |
 | OTCA: OpenTelemetry Certified Associate | 2026 | `057abad0-1b8f-4291-96be-8d475bf0cf0a` | [Credly](https://www.credly.com/badges/057abad0-1b8f-4291-96be-8d475bf0cf0a) |
 | CNPA: Certified Cloud Native Platform Engineering Associate | 2026 | `bc968f6e-14d0-468c-b93a-2785cde91c56` | [Credly](https://www.credly.com/badges/bc968f6e-14d0-468c-b93a-2785cde91c56) |
